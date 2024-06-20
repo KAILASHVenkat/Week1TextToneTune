@@ -1,0 +1,1001 @@
+Serial number,Date,Block,Floor,Observation,Compliance system,Observed by,Informed to
+1,2023-01-01,C1,Floor 2,Faulty air filtration system detected,Facility,Bob Jones,Grace Moore
+2,2023-01-01,C2,Floor 1,Unlabeled samples in storage area,Labeling,John Smith,Grace Moore
+3,2023-01-01,C3,Floor 1,Non-compliance with GMP standards,Labeling,Jane Johnson,Grace Moore
+4,2023-01-01,C3,Floor 2,Inadequate personal protective equipment,Labeling,Jane Johnson,Grace Moore
+5,2023-01-01,C3,Floor 2,Inadequate personal protective equipment,Facility,Jane Johnson,Grace Moore
+6,2023-01-02,C2,Floor 1,Improper labeling of chemical containers,Labeling,Bob Jones,Grace Moore
+7,2023-01-02,C1,Floor 2,Non-compliance with GMP standards,Facility,Charlie Brown,Frank Wilson
+8,2023-01-03,C2,Floor 3,Poor documentation of procedures,Facility,Diana Davis,Frank Wilson
+9,2023-01-03,C2,Floor 1,Unlabeled samples in storage area,Labeling,Charlie Brown,Frank Wilson
+10,2023-01-03,C3,Floor 1,Inadequate personal protective equipment,GMP,Eve Miller,Frank Wilson
+11,2023-01-04,C1,Floor 2,Unsterilized equipment in use,GMP,Jane Johnson,Frank Wilson
+12,2023-01-05,C1,Floor 3,Faulty air filtration system detected,Labeling,Jane Johnson,Frank Wilson
+13,2023-01-05,C3,Floor 3,Expired reagents found in laboratory,Facility,Jane Johnson,Frank Wilson
+14,2023-01-05,C2,Floor 1,Non-compliance with GMP standards,Labeling,Eve Miller,Grace Moore
+15,2023-01-07,C3,Floor 3,Temperature control issues in storage,GMP,Diana Davis,Frank Wilson
+16,2023-01-07,C1,Floor 1,Unlabeled samples in storage area,GMP,Eve Miller,Grace Moore
+17,2023-01-07,C3,Floor 1,Unlabeled samples in storage area,GMP,John Smith,Frank Wilson
+18,2023-01-09,C3,Floor 2,Unsterilized equipment in use,GMP,Charlie Brown,Frank Wilson
+19,2023-01-10,C2,Floor 3,Improper labeling of chemical containers,Facility,Hank Taylor,Grace Moore
+20,2023-01-11,C1,Floor 1,Inadequate personal protective equipment,Facility,Bob Jones,Frank Wilson
+21,2023-01-13,C2,Floor 3,Non-compliance with GMP standards,Labeling,John Smith,Frank Wilson
+22,2023-01-13,C1,Floor 2,Faulty air filtration system detected,Facility,Alice Williams,Grace Moore
+23,2023-01-13,C2,Floor 3,Improper waste disposal observed,Labeling,John Smith,Grace Moore
+24,2023-01-14,C1,Floor 2,Expired reagents found in laboratory,Labeling,Jane Johnson,Grace Moore
+25,2023-01-14,C3,Floor 2,Inadequate personal protective equipment,GMP,Alice Williams,Grace Moore
+26,2023-01-14,C1,Floor 3,Poor documentation of procedures,Facility,Alice Williams,Grace Moore
+27,2023-01-15,C3,Floor 2,Improper labeling of chemical containers,Facility,Hank Taylor,Grace Moore
+28,2023-01-15,C2,Floor 1,Unsterilized equipment in use,Labeling,Jane Johnson,Grace Moore
+29,2023-01-15,C2,Floor 1,Non-compliance with GMP standards,Labeling,Charlie Brown,Grace Moore
+30,2023-01-15,C3,Floor 3,Faulty air filtration system detected,GMP,John Smith,Grace Moore
+31,2023-01-15,C2,Floor 1,Unlabeled samples in storage area,Facility,Bob Jones,Frank Wilson
+32,2023-01-17,C2,Floor 3,Faulty air filtration system detected,Facility,Bob Jones,Frank Wilson
+33,2023-01-18,C1,Floor 1,Inadequate personal protective equipment,Labeling,Jane Johnson,Grace Moore
+34,2023-01-18,C1,Floor 3,Improper waste disposal observed,GMP,Bob Jones,Grace Moore
+35,2023-01-18,C1,Floor 1,Temperature control issues in storage,Labeling,Jane Johnson,Grace Moore
+36,2023-01-19,C3,Floor 2,Unlabeled samples in storage area,Facility,Alice Williams,Frank Wilson
+37,2023-01-19,C1,Floor 1,Non-compliance with GMP standards,Facility,Bob Jones,Grace Moore
+38,2023-01-19,C2,Floor 1,Improper labeling of chemical containers,Labeling,Alice Williams,Grace Moore
+39,2023-01-19,C1,Floor 2,Improper labeling of chemical containers,Labeling,Eve Miller,Grace Moore
+40,2023-01-19,C2,Floor 2,Expired reagents found in laboratory,GMP,Alice Williams,Frank Wilson
+41,2023-01-20,C1,Floor 1,Improper waste disposal observed,GMP,Eve Miller,Frank Wilson
+42,2023-01-20,C2,Floor 2,Unsterilized equipment in use,GMP,Eve Miller,Frank Wilson
+43,2023-01-20,C1,Floor 3,Unlabeled samples in storage area,Facility,Diana Davis,Frank Wilson
+44,2023-01-21,C3,Floor 2,Expired reagents found in laboratory,GMP,John Smith,Frank Wilson
+45,2023-01-21,C3,Floor 2,Temperature control issues in storage,Facility,Charlie Brown,Frank Wilson
+46,2023-01-21,C1,Floor 3,Unlabeled samples in storage area,Labeling,John Smith,Frank Wilson
+47,2023-01-21,C1,Floor 1,Unlabeled samples in storage area,GMP,Jane Johnson,Frank Wilson
+48,2023-01-21,C3,Floor 3,Unlabeled samples in storage area,Facility,Bob Jones,Frank Wilson
+49,2023-01-22,C3,Floor 3,Temperature control issues in storage,Labeling,Bob Jones,Frank Wilson
+50,2023-01-22,C1,Floor 2,Inadequate personal protective equipment,Labeling,John Smith,Grace Moore
+51,2023-01-22,C1,Floor 1,Inadequate personal protective equipment,Facility,Eve Miller,Frank Wilson
+52,2023-01-22,C3,Floor 1,Poor documentation of procedures,Labeling,Charlie Brown,Grace Moore
+53,2023-01-23,C1,Floor 1,Expired reagents found in laboratory,GMP,Charlie Brown,Frank Wilson
+54,2023-01-23,C3,Floor 2,Poor documentation of procedures,GMP,Eve Miller,Grace Moore
+55,2023-01-23,C1,Floor 1,Expired reagents found in laboratory,GMP,Hank Taylor,Grace Moore
+56,2023-01-24,C3,Floor 1,Unlabeled samples in storage area,Labeling,Alice Williams,Grace Moore
+57,2023-01-24,C1,Floor 3,Non-compliance with GMP standards,GMP,Diana Davis,Frank Wilson
+58,2023-01-25,C3,Floor 2,Non-compliance with GMP standards,Labeling,Diana Davis,Grace Moore
+59,2023-01-25,C2,Floor 1,Expired reagents found in laboratory,GMP,Jane Johnson,Frank Wilson
+60,2023-01-25,C3,Floor 1,Unlabeled samples in storage area,Labeling,Eve Miller,Frank Wilson
+61,2023-01-26,C2,Floor 2,Unsterilized equipment in use,GMP,Diana Davis,Frank Wilson
+62,2023-01-26,C1,Floor 3,Improper waste disposal observed,Labeling,Hank Taylor,Grace Moore
+63,2023-01-26,C1,Floor 1,Faulty air filtration system detected,Labeling,John Smith,Grace Moore
+64,2023-01-26,C1,Floor 1,Poor documentation of procedures,Labeling,Alice Williams,Grace Moore
+65,2023-01-28,C2,Floor 3,Improper labeling of chemical containers,Labeling,Bob Jones,Grace Moore
+66,2023-01-28,C3,Floor 3,Faulty air filtration system detected,Labeling,Charlie Brown,Grace Moore
+67,2023-01-28,C2,Floor 3,Faulty air filtration system detected,Facility,Diana Davis,Grace Moore
+68,2023-01-29,C3,Floor 1,Expired reagents found in laboratory,Labeling,Jane Johnson,Frank Wilson
+69,2023-01-29,C1,Floor 3,Inadequate personal protective equipment,Labeling,John Smith,Grace Moore
+70,2023-01-31,C2,Floor 2,Unlabeled samples in storage area,GMP,Charlie Brown,Grace Moore
+71,2023-02-01,C3,Floor 1,Improper waste disposal observed,GMP,Bob Jones,Grace Moore
+72,2023-02-01,C3,Floor 1,Improper labeling of chemical containers,Facility,Hank Taylor,Grace Moore
+73,2023-02-01,C1,Floor 2,Unsterilized equipment in use,GMP,Alice Williams,Grace Moore
+74,2023-02-02,C2,Floor 1,Improper labeling of chemical containers,Labeling,Diana Davis,Frank Wilson
+75,2023-02-03,C3,Floor 1,Expired reagents found in laboratory,Facility,Charlie Brown,Frank Wilson
+76,2023-02-03,C1,Floor 3,Improper waste disposal observed,Facility,Eve Miller,Frank Wilson
+77,2023-02-04,C1,Floor 3,Faulty air filtration system detected,Facility,Eve Miller,Grace Moore
+78,2023-02-05,C3,Floor 2,Improper labeling of chemical containers,GMP,Charlie Brown,Grace Moore
+79,2023-02-06,C2,Floor 1,Unsterilized equipment in use,GMP,John Smith,Frank Wilson
+80,2023-02-06,C1,Floor 1,Improper labeling of chemical containers,Labeling,Eve Miller,Frank Wilson
+81,2023-02-06,C2,Floor 2,Improper labeling of chemical containers,GMP,Alice Williams,Grace Moore
+82,2023-02-07,C1,Floor 2,Inadequate personal protective equipment,GMP,Hank Taylor,Frank Wilson
+83,2023-02-07,C2,Floor 2,Unlabeled samples in storage area,GMP,Hank Taylor,Grace Moore
+84,2023-02-07,C1,Floor 2,Improper labeling of chemical containers,Facility,Charlie Brown,Frank Wilson
+85,2023-02-07,C1,Floor 2,Improper waste disposal observed,Facility,Bob Jones,Grace Moore
+86,2023-02-07,C2,Floor 2,Improper labeling of chemical containers,GMP,Eve Miller,Frank Wilson
+87,2023-02-08,C2,Floor 3,Unlabeled samples in storage area,Labeling,Diana Davis,Grace Moore
+88,2023-02-09,C3,Floor 2,Non-compliance with GMP standards,GMP,Eve Miller,Grace Moore
+89,2023-02-09,C2,Floor 1,Unlabeled samples in storage area,Facility,Bob Jones,Grace Moore
+90,2023-02-10,C3,Floor 1,Expired reagents found in laboratory,Facility,Bob Jones,Grace Moore
+91,2023-02-10,C2,Floor 2,Unsterilized equipment in use,Labeling,Hank Taylor,Frank Wilson
+92,2023-02-10,C1,Floor 1,Temperature control issues in storage,GMP,John Smith,Grace Moore
+93,2023-02-10,C2,Floor 2,Improper labeling of chemical containers,Facility,Charlie Brown,Frank Wilson
+94,2023-02-10,C2,Floor 2,Unsterilized equipment in use,GMP,Hank Taylor,Frank Wilson
+95,2023-02-11,C3,Floor 2,Faulty air filtration system detected,Labeling,John Smith,Frank Wilson
+96,2023-02-11,C2,Floor 3,Non-compliance with GMP standards,GMP,Eve Miller,Grace Moore
+97,2023-02-12,C3,Floor 2,Improper waste disposal observed,Facility,Alice Williams,Grace Moore
+98,2023-02-12,C2,Floor 3,Unsterilized equipment in use,GMP,Jane Johnson,Grace Moore
+99,2023-02-12,C3,Floor 2,Improper labeling of chemical containers,Labeling,Bob Jones,Grace Moore
+100,2023-02-13,C1,Floor 1,Inadequate personal protective equipment,GMP,Diana Davis,Grace Moore
+101,2023-02-15,C1,Floor 2,Unlabeled samples in storage area,Labeling,Alice Williams,Grace Moore
+102,2023-02-15,C2,Floor 2,Inadequate personal protective equipment,Facility,Alice Williams,Grace Moore
+103,2023-02-15,C2,Floor 1,Unsterilized equipment in use,Labeling,John Smith,Grace Moore
+104,2023-02-16,C2,Floor 1,Improper labeling of chemical containers,Labeling,Diana Davis,Grace Moore
+105,2023-02-16,C3,Floor 1,Inadequate personal protective equipment,Labeling,Eve Miller,Frank Wilson
+106,2023-02-16,C1,Floor 1,Expired reagents found in laboratory,Facility,Bob Jones,Grace Moore
+107,2023-02-16,C2,Floor 3,Temperature control issues in storage,Facility,Diana Davis,Frank Wilson
+108,2023-02-17,C2,Floor 3,Temperature control issues in storage,GMP,Jane Johnson,Frank Wilson
+109,2023-02-17,C1,Floor 3,Temperature control issues in storage,GMP,Eve Miller,Grace Moore
+110,2023-02-17,C1,Floor 1,Poor documentation of procedures,Labeling,Charlie Brown,Frank Wilson
+111,2023-02-17,C2,Floor 3,Unsterilized equipment in use,Labeling,Eve Miller,Grace Moore
+112,2023-02-18,C3,Floor 1,Improper labeling of chemical containers,Facility,Eve Miller,Grace Moore
+113,2023-02-19,C2,Floor 2,Faulty air filtration system detected,Facility,Alice Williams,Frank Wilson
+114,2023-02-19,C3,Floor 2,Temperature control issues in storage,Facility,Alice Williams,Grace Moore
+115,2023-02-20,C2,Floor 2,Expired reagents found in laboratory,GMP,Bob Jones,Grace Moore
+116,2023-02-20,C2,Floor 3,Unlabeled samples in storage area,GMP,Bob Jones,Grace Moore
+117,2023-02-20,C3,Floor 3,Expired reagents found in laboratory,Facility,Jane Johnson,Frank Wilson
+118,2023-02-20,C1,Floor 1,Poor documentation of procedures,Facility,Hank Taylor,Frank Wilson
+119,2023-02-21,C2,Floor 1,Improper waste disposal observed,Labeling,Alice Williams,Grace Moore
+120,2023-02-21,C2,Floor 2,Unlabeled samples in storage area,Labeling,Alice Williams,Frank Wilson
+121,2023-02-22,C3,Floor 2,Inadequate personal protective equipment,Facility,Charlie Brown,Frank Wilson
+122,2023-02-22,C3,Floor 3,Temperature control issues in storage,GMP,John Smith,Frank Wilson
+123,2023-02-22,C1,Floor 2,Unsterilized equipment in use,Facility,Bob Jones,Frank Wilson
+124,2023-02-23,C3,Floor 2,Faulty air filtration system detected,Facility,Eve Miller,Frank Wilson
+125,2023-02-24,C2,Floor 1,Inadequate personal protective equipment,Labeling,Alice Williams,Frank Wilson
+126,2023-02-24,C1,Floor 1,Unsterilized equipment in use,GMP,Jane Johnson,Grace Moore
+127,2023-02-25,C1,Floor 1,Temperature control issues in storage,GMP,Bob Jones,Grace Moore
+128,2023-02-25,C2,Floor 2,Non-compliance with GMP standards,Labeling,Charlie Brown,Frank Wilson
+129,2023-02-25,C1,Floor 3,Poor documentation of procedures,GMP,Hank Taylor,Frank Wilson
+130,2023-02-25,C2,Floor 2,Unsterilized equipment in use,Facility,Hank Taylor,Grace Moore
+131,2023-02-26,C2,Floor 1,Improper labeling of chemical containers,Labeling,Charlie Brown,Grace Moore
+132,2023-02-26,C3,Floor 1,Expired reagents found in laboratory,Facility,Diana Davis,Frank Wilson
+133,2023-02-26,C2,Floor 2,Inadequate personal protective equipment,Facility,Hank Taylor,Frank Wilson
+134,2023-02-26,C2,Floor 1,Expired reagents found in laboratory,Facility,Bob Jones,Grace Moore
+135,2023-02-26,C1,Floor 1,Expired reagents found in laboratory,Labeling,Diana Davis,Grace Moore
+136,2023-02-26,C3,Floor 2,Improper labeling of chemical containers,GMP,Charlie Brown,Frank Wilson
+137,2023-02-27,C1,Floor 2,Unsterilized equipment in use,Labeling,Eve Miller,Grace Moore
+138,2023-02-27,C1,Floor 3,Improper labeling of chemical containers,Labeling,Alice Williams,Frank Wilson
+139,2023-02-27,C3,Floor 2,Poor documentation of procedures,Facility,Eve Miller,Grace Moore
+140,2023-02-28,C3,Floor 3,Poor documentation of procedures,GMP,Diana Davis,Frank Wilson
+141,2023-02-28,C3,Floor 2,Non-compliance with GMP standards,Facility,Eve Miller,Grace Moore
+142,2023-02-28,C2,Floor 1,Improper labeling of chemical containers,Facility,Alice Williams,Frank Wilson
+143,2023-02-28,C1,Floor 2,Unsterilized equipment in use,GMP,Hank Taylor,Frank Wilson
+144,2023-03-01,C2,Floor 1,Temperature control issues in storage,Facility,Hank Taylor,Frank Wilson
+145,2023-03-01,C3,Floor 3,Improper waste disposal observed,Facility,Eve Miller,Frank Wilson
+146,2023-03-02,C3,Floor 1,Poor documentation of procedures,Labeling,Bob Jones,Grace Moore
+147,2023-03-02,C3,Floor 2,Improper labeling of chemical containers,GMP,Diana Davis,Frank Wilson
+148,2023-03-02,C2,Floor 2,Improper labeling of chemical containers,GMP,Charlie Brown,Frank Wilson
+149,2023-03-02,C1,Floor 1,Temperature control issues in storage,GMP,Charlie Brown,Grace Moore
+150,2023-03-02,C3,Floor 3,Expired reagents found in laboratory,GMP,Hank Taylor,Frank Wilson
+151,2023-03-03,C1,Floor 3,Faulty air filtration system detected,GMP,Charlie Brown,Grace Moore
+152,2023-03-03,C3,Floor 2,Unlabeled samples in storage area,Labeling,John Smith,Frank Wilson
+153,2023-03-03,C3,Floor 3,Improper labeling of chemical containers,Labeling,John Smith,Grace Moore
+154,2023-03-04,C3,Floor 3,Faulty air filtration system detected,GMP,Alice Williams,Grace Moore
+155,2023-03-04,C3,Floor 1,Expired reagents found in laboratory,Facility,Jane Johnson,Grace Moore
+156,2023-03-04,C2,Floor 2,Faulty air filtration system detected,Facility,John Smith,Frank Wilson
+157,2023-03-05,C1,Floor 2,Unlabeled samples in storage area,Facility,Alice Williams,Grace Moore
+158,2023-03-05,C1,Floor 1,Expired reagents found in laboratory,Labeling,Bob Jones,Grace Moore
+159,2023-03-05,C1,Floor 3,Temperature control issues in storage,GMP,Diana Davis,Frank Wilson
+160,2023-03-06,C2,Floor 1,Poor documentation of procedures,Facility,Hank Taylor,Grace Moore
+161,2023-03-07,C3,Floor 1,Improper waste disposal observed,Labeling,Alice Williams,Grace Moore
+162,2023-03-08,C3,Floor 3,Non-compliance with GMP standards,Facility,John Smith,Frank Wilson
+163,2023-03-09,C2,Floor 1,Non-compliance with GMP standards,Facility,Hank Taylor,Frank Wilson
+164,2023-03-09,C3,Floor 2,Faulty air filtration system detected,Labeling,Hank Taylor,Frank Wilson
+165,2023-03-10,C3,Floor 3,Unsterilized equipment in use,Facility,Charlie Brown,Grace Moore
+166,2023-03-10,C1,Floor 2,Improper labeling of chemical containers,Labeling,Charlie Brown,Frank Wilson
+167,2023-03-10,C2,Floor 1,Improper labeling of chemical containers,Labeling,Eve Miller,Frank Wilson
+168,2023-03-10,C2,Floor 2,Improper waste disposal observed,GMP,John Smith,Grace Moore
+169,2023-03-10,C2,Floor 1,Unlabeled samples in storage area,Labeling,Eve Miller,Grace Moore
+170,2023-03-11,C3,Floor 1,Improper waste disposal observed,GMP,Hank Taylor,Frank Wilson
+171,2023-03-11,C2,Floor 1,Non-compliance with GMP standards,Labeling,Bob Jones,Frank Wilson
+172,2023-03-12,C1,Floor 1,Temperature control issues in storage,Labeling,Diana Davis,Frank Wilson
+173,2023-03-12,C2,Floor 2,Unsterilized equipment in use,GMP,Charlie Brown,Grace Moore
+174,2023-03-13,C2,Floor 1,Improper waste disposal observed,Labeling,Eve Miller,Grace Moore
+175,2023-03-13,C1,Floor 3,Unsterilized equipment in use,GMP,Eve Miller,Grace Moore
+176,2023-03-13,C1,Floor 2,Expired reagents found in laboratory,GMP,Diana Davis,Grace Moore
+177,2023-03-13,C3,Floor 3,Expired reagents found in laboratory,Facility,Charlie Brown,Frank Wilson
+178,2023-03-13,C1,Floor 3,Improper waste disposal observed,Facility,Bob Jones,Frank Wilson
+179,2023-03-14,C2,Floor 3,Inadequate personal protective equipment,Labeling,Charlie Brown,Grace Moore
+180,2023-03-14,C1,Floor 1,Improper waste disposal observed,Facility,Diana Davis,Frank Wilson
+181,2023-03-14,C1,Floor 3,Non-compliance with GMP standards,GMP,Alice Williams,Grace Moore
+182,2023-03-15,C3,Floor 1,Expired reagents found in laboratory,Facility,Charlie Brown,Grace Moore
+183,2023-03-15,C3,Floor 3,Expired reagents found in laboratory,GMP,Eve Miller,Frank Wilson
+184,2023-03-15,C1,Floor 2,Faulty air filtration system detected,Labeling,Hank Taylor,Frank Wilson
+185,2023-03-16,C1,Floor 2,Faulty air filtration system detected,Labeling,Charlie Brown,Frank Wilson
+186,2023-03-16,C3,Floor 2,Faulty air filtration system detected,GMP,Alice Williams,Frank Wilson
+187,2023-03-17,C3,Floor 2,Expired reagents found in laboratory,Facility,Diana Davis,Grace Moore
+188,2023-03-18,C3,Floor 1,Temperature control issues in storage,Facility,John Smith,Grace Moore
+189,2023-03-18,C2,Floor 1,Expired reagents found in laboratory,GMP,Jane Johnson,Frank Wilson
+190,2023-03-18,C2,Floor 1,Unsterilized equipment in use,Labeling,Jane Johnson,Frank Wilson
+191,2023-03-19,C1,Floor 2,Unlabeled samples in storage area,GMP,Jane Johnson,Frank Wilson
+192,2023-03-19,C3,Floor 3,Improper waste disposal observed,Labeling,John Smith,Grace Moore
+193,2023-03-20,C1,Floor 1,Improper waste disposal observed,Labeling,Eve Miller,Frank Wilson
+194,2023-03-20,C2,Floor 3,Non-compliance with GMP standards,Facility,Bob Jones,Grace Moore
+195,2023-03-20,C3,Floor 2,Temperature control issues in storage,GMP,Charlie Brown,Frank Wilson
+196,2023-03-20,C3,Floor 2,Expired reagents found in laboratory,GMP,Charlie Brown,Frank Wilson
+197,2023-03-22,C1,Floor 1,Inadequate personal protective equipment,Facility,Bob Jones,Frank Wilson
+198,2023-03-22,C1,Floor 3,Poor documentation of procedures,Labeling,Alice Williams,Grace Moore
+199,2023-03-22,C1,Floor 3,Improper waste disposal observed,GMP,John Smith,Grace Moore
+200,2023-03-22,C3,Floor 2,Unsterilized equipment in use,Facility,Diana Davis,Grace Moore
+201,2023-03-22,C3,Floor 1,Non-compliance with GMP standards,Labeling,Diana Davis,Frank Wilson
+202,2023-03-22,C3,Floor 3,Unsterilized equipment in use,Labeling,Alice Williams,Grace Moore
+203,2023-03-23,C2,Floor 3,Temperature control issues in storage,GMP,Jane Johnson,Frank Wilson
+204,2023-03-23,C2,Floor 3,Non-compliance with GMP standards,Facility,Charlie Brown,Grace Moore
+205,2023-03-23,C1,Floor 2,Improper labeling of chemical containers,GMP,Eve Miller,Grace Moore
+206,2023-03-24,C1,Floor 2,Unsterilized equipment in use,Facility,Diana Davis,Frank Wilson
+207,2023-03-24,C3,Floor 2,Poor documentation of procedures,Facility,Jane Johnson,Frank Wilson
+208,2023-03-24,C3,Floor 3,Improper waste disposal observed,Labeling,Diana Davis,Frank Wilson
+209,2023-03-26,C3,Floor 2,Inadequate personal protective equipment,Facility,Charlie Brown,Frank Wilson
+210,2023-03-26,C1,Floor 1,Unsterilized equipment in use,Facility,Charlie Brown,Frank Wilson
+211,2023-03-26,C3,Floor 2,Unlabeled samples in storage area,Facility,Bob Jones,Frank Wilson
+212,2023-03-27,C3,Floor 1,Improper labeling of chemical containers,GMP,Diana Davis,Grace Moore
+213,2023-03-27,C2,Floor 3,Non-compliance with GMP standards,GMP,Diana Davis,Grace Moore
+214,2023-03-27,C1,Floor 1,Non-compliance with GMP standards,GMP,Alice Williams,Grace Moore
+215,2023-03-28,C2,Floor 3,Unlabeled samples in storage area,GMP,Bob Jones,Frank Wilson
+216,2023-03-29,C1,Floor 2,Poor documentation of procedures,Facility,Charlie Brown,Grace Moore
+217,2023-03-29,C1,Floor 1,Faulty air filtration system detected,GMP,Diana Davis,Grace Moore
+218,2023-03-29,C3,Floor 1,Expired reagents found in laboratory,Facility,Hank Taylor,Grace Moore
+219,2023-03-29,C3,Floor 1,Inadequate personal protective equipment,GMP,Bob Jones,Frank Wilson
+220,2023-03-30,C1,Floor 3,Improper labeling of chemical containers,Facility,Hank Taylor,Grace Moore
+221,2023-03-30,C2,Floor 3,Non-compliance with GMP standards,Labeling,Eve Miller,Frank Wilson
+222,2023-03-30,C1,Floor 3,Improper labeling of chemical containers,Facility,John Smith,Grace Moore
+223,2023-03-30,C1,Floor 1,Non-compliance with GMP standards,Labeling,John Smith,Frank Wilson
+224,2023-03-31,C1,Floor 2,Faulty air filtration system detected,Labeling,Jane Johnson,Grace Moore
+225,2023-03-31,C3,Floor 1,Expired reagents found in laboratory,GMP,Jane Johnson,Frank Wilson
+226,2023-03-31,C3,Floor 1,Faulty air filtration system detected,Labeling,Alice Williams,Frank Wilson
+227,2023-03-31,C2,Floor 1,Inadequate personal protective equipment,Facility,Eve Miller,Grace Moore
+228,2023-03-31,C2,Floor 3,Improper waste disposal observed,Labeling,Bob Jones,Frank Wilson
+229,2023-03-31,C1,Floor 3,Unlabeled samples in storage area,Facility,Eve Miller,Frank Wilson
+230,2023-03-31,C2,Floor 1,Poor documentation of procedures,Facility,Diana Davis,Frank Wilson
+231,2023-04-01,C2,Floor 2,Unsterilized equipment in use,Facility,Alice Williams,Grace Moore
+232,2023-04-01,C2,Floor 1,Non-compliance with GMP standards,Facility,Eve Miller,Frank Wilson
+233,2023-04-01,C3,Floor 3,Expired reagents found in laboratory,GMP,Diana Davis,Frank Wilson
+234,2023-04-02,C2,Floor 1,Improper waste disposal observed,Labeling,Alice Williams,Grace Moore
+235,2023-04-02,C2,Floor 3,Unlabeled samples in storage area,GMP,Diana Davis,Grace Moore
+236,2023-04-02,C2,Floor 3,Inadequate personal protective equipment,Facility,Eve Miller,Grace Moore
+237,2023-04-02,C3,Floor 3,Expired reagents found in laboratory,GMP,Eve Miller,Frank Wilson
+238,2023-04-04,C1,Floor 1,Poor documentation of procedures,GMP,Hank Taylor,Grace Moore
+239,2023-04-04,C3,Floor 2,Improper labeling of chemical containers,Labeling,Hank Taylor,Frank Wilson
+240,2023-04-04,C3,Floor 2,Poor documentation of procedures,Labeling,Hank Taylor,Grace Moore
+241,2023-04-04,C2,Floor 1,Improper waste disposal observed,Labeling,Eve Miller,Grace Moore
+242,2023-04-04,C3,Floor 3,Temperature control issues in storage,Facility,Charlie Brown,Frank Wilson
+243,2023-04-05,C3,Floor 2,Non-compliance with GMP standards,Labeling,Alice Williams,Frank Wilson
+244,2023-04-05,C2,Floor 3,Unsterilized equipment in use,GMP,Alice Williams,Grace Moore
+245,2023-04-06,C3,Floor 1,Temperature control issues in storage,Facility,Eve Miller,Grace Moore
+246,2023-04-06,C2,Floor 3,Non-compliance with GMP standards,GMP,Hank Taylor,Frank Wilson
+247,2023-04-06,C3,Floor 1,Improper waste disposal observed,Facility,Alice Williams,Frank Wilson
+248,2023-04-07,C2,Floor 1,Expired reagents found in laboratory,Labeling,Jane Johnson,Frank Wilson
+249,2023-04-07,C3,Floor 2,Unsterilized equipment in use,GMP,Hank Taylor,Grace Moore
+250,2023-04-08,C3,Floor 2,Non-compliance with GMP standards,GMP,Charlie Brown,Grace Moore
+251,2023-04-08,C2,Floor 3,Poor documentation of procedures,Facility,Diana Davis,Grace Moore
+252,2023-04-08,C1,Floor 1,Faulty air filtration system detected,Labeling,Hank Taylor,Frank Wilson
+253,2023-04-09,C3,Floor 3,Non-compliance with GMP standards,GMP,Hank Taylor,Frank Wilson
+254,2023-04-09,C3,Floor 2,Poor documentation of procedures,Facility,John Smith,Frank Wilson
+255,2023-04-10,C2,Floor 2,Improper waste disposal observed,Facility,Bob Jones,Frank Wilson
+256,2023-04-10,C3,Floor 1,Improper waste disposal observed,Labeling,Hank Taylor,Grace Moore
+257,2023-04-10,C2,Floor 2,Poor documentation of procedures,Labeling,Bob Jones,Grace Moore
+258,2023-04-11,C3,Floor 3,Unsterilized equipment in use,GMP,Bob Jones,Grace Moore
+259,2023-04-11,C3,Floor 3,Faulty air filtration system detected,GMP,Bob Jones,Frank Wilson
+260,2023-04-12,C2,Floor 3,Temperature control issues in storage,GMP,Charlie Brown,Frank Wilson
+261,2023-04-12,C2,Floor 2,Temperature control issues in storage,GMP,Hank Taylor,Grace Moore
+262,2023-04-12,C3,Floor 2,Temperature control issues in storage,Labeling,Eve Miller,Grace Moore
+263,2023-04-13,C3,Floor 1,Faulty air filtration system detected,Labeling,John Smith,Frank Wilson
+264,2023-04-13,C3,Floor 1,Inadequate personal protective equipment,Facility,Bob Jones,Grace Moore
+265,2023-04-13,C3,Floor 3,Improper waste disposal observed,Facility,Eve Miller,Grace Moore
+266,2023-04-14,C2,Floor 1,Expired reagents found in laboratory,Labeling,Charlie Brown,Grace Moore
+267,2023-04-14,C2,Floor 3,Temperature control issues in storage,Facility,Bob Jones,Grace Moore
+268,2023-04-14,C1,Floor 2,Improper waste disposal observed,Labeling,Bob Jones,Grace Moore
+269,2023-04-16,C1,Floor 3,Poor documentation of procedures,Facility,Diana Davis,Frank Wilson
+270,2023-04-16,C2,Floor 2,Faulty air filtration system detected,Labeling,Eve Miller,Grace Moore
+271,2023-04-17,C1,Floor 1,Improper labeling of chemical containers,Facility,John Smith,Frank Wilson
+272,2023-04-17,C3,Floor 2,Temperature control issues in storage,Facility,Eve Miller,Frank Wilson
+273,2023-04-17,C1,Floor 1,Inadequate personal protective equipment,Labeling,Bob Jones,Grace Moore
+274,2023-04-18,C2,Floor 3,Temperature control issues in storage,Facility,Eve Miller,Frank Wilson
+275,2023-04-18,C3,Floor 1,Non-compliance with GMP standards,GMP,Eve Miller,Grace Moore
+276,2023-04-19,C1,Floor 2,Faulty air filtration system detected,Labeling,Hank Taylor,Grace Moore
+277,2023-04-19,C1,Floor 2,Unsterilized equipment in use,GMP,John Smith,Grace Moore
+278,2023-04-19,C2,Floor 3,Improper waste disposal observed,Labeling,Eve Miller,Grace Moore
+279,2023-04-20,C2,Floor 1,Unsterilized equipment in use,GMP,Bob Jones,Grace Moore
+280,2023-04-20,C2,Floor 2,Unsterilized equipment in use,Labeling,John Smith,Frank Wilson
+281,2023-04-20,C2,Floor 2,Improper labeling of chemical containers,Labeling,Jane Johnson,Grace Moore
+282,2023-04-20,C3,Floor 2,Non-compliance with GMP standards,Labeling,Bob Jones,Grace Moore
+283,2023-04-20,C2,Floor 1,Poor documentation of procedures,GMP,Bob Jones,Frank Wilson
+284,2023-04-20,C1,Floor 1,Non-compliance with GMP standards,GMP,Jane Johnson,Frank Wilson
+285,2023-04-22,C1,Floor 3,Temperature control issues in storage,Labeling,Diana Davis,Grace Moore
+286,2023-04-23,C1,Floor 1,Improper waste disposal observed,Facility,Hank Taylor,Grace Moore
+287,2023-04-24,C1,Floor 3,Unlabeled samples in storage area,GMP,Bob Jones,Grace Moore
+288,2023-04-24,C2,Floor 3,Inadequate personal protective equipment,Facility,John Smith,Frank Wilson
+289,2023-04-24,C1,Floor 2,Improper labeling of chemical containers,Labeling,Jane Johnson,Frank Wilson
+290,2023-04-25,C1,Floor 2,Non-compliance with GMP standards,Labeling,Eve Miller,Grace Moore
+291,2023-04-25,C1,Floor 2,Temperature control issues in storage,GMP,Charlie Brown,Grace Moore
+292,2023-04-25,C1,Floor 2,Inadequate personal protective equipment,Facility,Bob Jones,Grace Moore
+293,2023-04-26,C3,Floor 1,Improper waste disposal observed,Facility,Bob Jones,Grace Moore
+294,2023-04-26,C3,Floor 1,Non-compliance with GMP standards,Facility,Hank Taylor,Grace Moore
+295,2023-04-26,C1,Floor 3,Temperature control issues in storage,Labeling,Diana Davis,Frank Wilson
+296,2023-04-26,C1,Floor 3,Improper waste disposal observed,Facility,Eve Miller,Frank Wilson
+297,2023-04-26,C1,Floor 1,Temperature control issues in storage,GMP,Alice Williams,Grace Moore
+298,2023-04-27,C3,Floor 2,Improper waste disposal observed,GMP,Bob Jones,Frank Wilson
+299,2023-04-27,C3,Floor 3,Non-compliance with GMP standards,GMP,Alice Williams,Grace Moore
+300,2023-04-27,C2,Floor 3,Poor documentation of procedures,Labeling,Bob Jones,Grace Moore
+301,2023-04-27,C1,Floor 3,Improper labeling of chemical containers,GMP,John Smith,Frank Wilson
+302,2023-04-28,C1,Floor 2,Poor documentation of procedures,GMP,John Smith,Grace Moore
+303,2023-04-28,C2,Floor 2,Poor documentation of procedures,Facility,Eve Miller,Frank Wilson
+304,2023-04-28,C1,Floor 2,Poor documentation of procedures,Facility,Jane Johnson,Frank Wilson
+305,2023-04-29,C1,Floor 2,Unsterilized equipment in use,GMP,Bob Jones,Grace Moore
+306,2023-04-30,C2,Floor 2,Unlabeled samples in storage area,GMP,Jane Johnson,Grace Moore
+307,2023-04-30,C3,Floor 2,Unsterilized equipment in use,GMP,Diana Davis,Frank Wilson
+308,2023-04-30,C3,Floor 1,Temperature control issues in storage,Facility,Charlie Brown,Frank Wilson
+309,2023-05-01,C3,Floor 2,Improper waste disposal observed,Facility,John Smith,Frank Wilson
+310,2023-05-01,C3,Floor 1,Improper labeling of chemical containers,Labeling,Charlie Brown,Grace Moore
+311,2023-05-01,C1,Floor 2,Faulty air filtration system detected,GMP,Eve Miller,Grace Moore
+312,2023-05-02,C1,Floor 3,Improper labeling of chemical containers,Facility,Charlie Brown,Grace Moore
+313,2023-05-02,C3,Floor 2,Unlabeled samples in storage area,GMP,Bob Jones,Grace Moore
+314,2023-05-02,C1,Floor 3,Faulty air filtration system detected,Labeling,Jane Johnson,Frank Wilson
+315,2023-05-03,C3,Floor 1,Improper labeling of chemical containers,Facility,Eve Miller,Frank Wilson
+316,2023-05-03,C3,Floor 2,Improper labeling of chemical containers,Labeling,John Smith,Grace Moore
+317,2023-05-04,C2,Floor 2,Non-compliance with GMP standards,Facility,Eve Miller,Grace Moore
+318,2023-05-04,C2,Floor 2,Temperature control issues in storage,GMP,Jane Johnson,Grace Moore
+319,2023-05-04,C2,Floor 3,Expired reagents found in laboratory,Labeling,Alice Williams,Frank Wilson
+320,2023-05-04,C2,Floor 2,Improper waste disposal observed,GMP,Eve Miller,Frank Wilson
+321,2023-05-04,C2,Floor 3,Poor documentation of procedures,Facility,Diana Davis,Grace Moore
+322,2023-05-05,C3,Floor 1,Temperature control issues in storage,GMP,Hank Taylor,Frank Wilson
+323,2023-05-05,C3,Floor 2,Poor documentation of procedures,Facility,Bob Jones,Frank Wilson
+324,2023-05-07,C3,Floor 1,Unlabeled samples in storage area,Facility,Eve Miller,Grace Moore
+325,2023-05-07,C2,Floor 3,Unsterilized equipment in use,GMP,Diana Davis,Grace Moore
+326,2023-05-09,C2,Floor 3,Improper waste disposal observed,GMP,Eve Miller,Frank Wilson
+327,2023-05-10,C3,Floor 1,Improper waste disposal observed,Labeling,Jane Johnson,Frank Wilson
+328,2023-05-11,C1,Floor 2,Poor documentation of procedures,Facility,Hank Taylor,Frank Wilson
+329,2023-05-11,C2,Floor 3,Expired reagents found in laboratory,GMP,Eve Miller,Grace Moore
+330,2023-05-11,C1,Floor 2,Temperature control issues in storage,GMP,Eve Miller,Grace Moore
+331,2023-05-11,C2,Floor 2,Inadequate personal protective equipment,Facility,Eve Miller,Frank Wilson
+332,2023-05-11,C2,Floor 1,Unlabeled samples in storage area,GMP,Jane Johnson,Frank Wilson
+333,2023-05-12,C3,Floor 1,Unlabeled samples in storage area,Facility,Diana Davis,Frank Wilson
+334,2023-05-12,C1,Floor 3,Non-compliance with GMP standards,GMP,Jane Johnson,Frank Wilson
+335,2023-05-12,C1,Floor 1,Unlabeled samples in storage area,Labeling,Alice Williams,Frank Wilson
+336,2023-05-12,C3,Floor 1,Faulty air filtration system detected,Facility,John Smith,Grace Moore
+337,2023-05-13,C3,Floor 2,Improper waste disposal observed,Facility,Bob Jones,Frank Wilson
+338,2023-05-13,C2,Floor 1,Expired reagents found in laboratory,Labeling,Charlie Brown,Grace Moore
+339,2023-05-14,C2,Floor 1,Non-compliance with GMP standards,GMP,Diana Davis,Grace Moore
+340,2023-05-14,C3,Floor 2,Non-compliance with GMP standards,Labeling,Alice Williams,Frank Wilson
+341,2023-05-14,C1,Floor 1,Inadequate personal protective equipment,GMP,Bob Jones,Grace Moore
+342,2023-05-15,C1,Floor 3,Expired reagents found in laboratory,Facility,Hank Taylor,Frank Wilson
+343,2023-05-15,C2,Floor 1,Inadequate personal protective equipment,Facility,Eve Miller,Frank Wilson
+344,2023-05-15,C3,Floor 1,Unsterilized equipment in use,GMP,Bob Jones,Grace Moore
+345,2023-05-15,C2,Floor 3,Faulty air filtration system detected,Labeling,Alice Williams,Frank Wilson
+346,2023-05-16,C1,Floor 1,Expired reagents found in laboratory,GMP,Diana Davis,Frank Wilson
+347,2023-05-16,C2,Floor 3,Unsterilized equipment in use,Labeling,Hank Taylor,Grace Moore
+348,2023-05-17,C1,Floor 3,Non-compliance with GMP standards,Labeling,Jane Johnson,Frank Wilson
+349,2023-05-18,C3,Floor 1,Unsterilized equipment in use,Facility,Alice Williams,Frank Wilson
+350,2023-05-18,C1,Floor 2,Inadequate personal protective equipment,GMP,Jane Johnson,Frank Wilson
+351,2023-05-18,C3,Floor 2,Poor documentation of procedures,Labeling,Diana Davis,Frank Wilson
+352,2023-05-18,C1,Floor 2,Improper waste disposal observed,GMP,Hank Taylor,Grace Moore
+353,2023-05-18,C3,Floor 2,Unsterilized equipment in use,GMP,John Smith,Frank Wilson
+354,2023-05-19,C2,Floor 1,Non-compliance with GMP standards,GMP,Alice Williams,Frank Wilson
+355,2023-05-19,C3,Floor 3,Improper labeling of chemical containers,Labeling,Diana Davis,Grace Moore
+356,2023-05-20,C2,Floor 2,Unsterilized equipment in use,GMP,Alice Williams,Frank Wilson
+357,2023-05-21,C2,Floor 2,Non-compliance with GMP standards,Facility,Charlie Brown,Grace Moore
+358,2023-05-21,C3,Floor 3,Improper waste disposal observed,Facility,Jane Johnson,Grace Moore
+359,2023-05-23,C1,Floor 3,Poor documentation of procedures,Labeling,Hank Taylor,Grace Moore
+360,2023-05-23,C1,Floor 1,Unsterilized equipment in use,GMP,Eve Miller,Frank Wilson
+361,2023-05-23,C1,Floor 3,Improper waste disposal observed,Labeling,Bob Jones,Grace Moore
+362,2023-05-24,C1,Floor 1,Improper labeling of chemical containers,GMP,Charlie Brown,Grace Moore
+363,2023-05-24,C3,Floor 2,Improper labeling of chemical containers,GMP,Hank Taylor,Frank Wilson
+364,2023-05-24,C2,Floor 3,Inadequate personal protective equipment,Facility,Diana Davis,Frank Wilson
+365,2023-05-25,C1,Floor 2,Improper waste disposal observed,Facility,Alice Williams,Grace Moore
+366,2023-05-25,C3,Floor 3,Unlabeled samples in storage area,GMP,Charlie Brown,Grace Moore
+367,2023-05-27,C1,Floor 1,Improper waste disposal observed,Facility,Alice Williams,Grace Moore
+368,2023-05-27,C3,Floor 3,Non-compliance with GMP standards,Labeling,Hank Taylor,Grace Moore
+369,2023-05-27,C1,Floor 1,Expired reagents found in laboratory,Labeling,Jane Johnson,Frank Wilson
+370,2023-05-28,C3,Floor 3,Poor documentation of procedures,Labeling,Alice Williams,Frank Wilson
+371,2023-05-29,C2,Floor 3,Improper labeling of chemical containers,Facility,Charlie Brown,Grace Moore
+372,2023-05-29,C2,Floor 2,Improper waste disposal observed,Facility,John Smith,Frank Wilson
+373,2023-05-29,C3,Floor 1,Unlabeled samples in storage area,Labeling,Eve Miller,Grace Moore
+374,2023-05-30,C1,Floor 1,Temperature control issues in storage,Labeling,Charlie Brown,Grace Moore
+375,2023-05-31,C1,Floor 1,Faulty air filtration system detected,Facility,Diana Davis,Frank Wilson
+376,2023-05-31,C2,Floor 2,Improper waste disposal observed,Labeling,Hank Taylor,Grace Moore
+377,2023-06-01,C3,Floor 1,Faulty air filtration system detected,Labeling,Alice Williams,Frank Wilson
+378,2023-06-01,C3,Floor 1,Non-compliance with GMP standards,Facility,Charlie Brown,Frank Wilson
+379,2023-06-02,C3,Floor 2,Unsterilized equipment in use,Facility,Alice Williams,Frank Wilson
+380,2023-06-02,C1,Floor 2,Non-compliance with GMP standards,Labeling,Hank Taylor,Grace Moore
+381,2023-06-02,C3,Floor 2,Inadequate personal protective equipment,GMP,Bob Jones,Frank Wilson
+382,2023-06-02,C3,Floor 3,Poor documentation of procedures,Facility,Jane Johnson,Grace Moore
+383,2023-06-03,C2,Floor 1,Inadequate personal protective equipment,Facility,John Smith,Frank Wilson
+384,2023-06-04,C1,Floor 3,Unsterilized equipment in use,Facility,Bob Jones,Grace Moore
+385,2023-06-04,C1,Floor 1,Temperature control issues in storage,Facility,Diana Davis,Frank Wilson
+386,2023-06-04,C3,Floor 1,Improper labeling of chemical containers,GMP,Jane Johnson,Grace Moore
+387,2023-06-05,C1,Floor 2,Temperature control issues in storage,Labeling,John Smith,Frank Wilson
+388,2023-06-05,C2,Floor 1,Temperature control issues in storage,Facility,John Smith,Grace Moore
+389,2023-06-06,C3,Floor 3,Faulty air filtration system detected,Labeling,Jane Johnson,Frank Wilson
+390,2023-06-06,C3,Floor 2,Temperature control issues in storage,Facility,Eve Miller,Grace Moore
+391,2023-06-06,C1,Floor 3,Faulty air filtration system detected,Facility,Alice Williams,Grace Moore
+392,2023-06-07,C1,Floor 2,Inadequate personal protective equipment,Labeling,Bob Jones,Grace Moore
+393,2023-06-07,C1,Floor 1,Faulty air filtration system detected,GMP,Alice Williams,Frank Wilson
+394,2023-06-07,C1,Floor 3,Inadequate personal protective equipment,Labeling,Jane Johnson,Frank Wilson
+395,2023-06-08,C3,Floor 1,Unlabeled samples in storage area,Labeling,Bob Jones,Grace Moore
+396,2023-06-08,C1,Floor 2,Improper waste disposal observed,Facility,Jane Johnson,Frank Wilson
+397,2023-06-08,C2,Floor 1,Inadequate personal protective equipment,GMP,Bob Jones,Grace Moore
+398,2023-06-08,C2,Floor 2,Non-compliance with GMP standards,Labeling,Diana Davis,Grace Moore
+399,2023-06-09,C1,Floor 1,Improper labeling of chemical containers,Facility,Eve Miller,Grace Moore
+400,2023-06-09,C2,Floor 2,Unsterilized equipment in use,Labeling,Bob Jones,Frank Wilson
+401,2023-06-09,C1,Floor 3,Poor documentation of procedures,Facility,Jane Johnson,Frank Wilson
+402,2023-06-09,C3,Floor 2,Expired reagents found in laboratory,Labeling,Eve Miller,Frank Wilson
+403,2023-06-10,C3,Floor 1,Improper waste disposal observed,Facility,Diana Davis,Grace Moore
+404,2023-06-10,C3,Floor 1,Non-compliance with GMP standards,GMP,Alice Williams,Grace Moore
+405,2023-06-10,C1,Floor 3,Unsterilized equipment in use,GMP,Diana Davis,Grace Moore
+406,2023-06-11,C1,Floor 1,Expired reagents found in laboratory,Labeling,Charlie Brown,Grace Moore
+407,2023-06-11,C1,Floor 2,Non-compliance with GMP standards,GMP,John Smith,Grace Moore
+408,2023-06-11,C3,Floor 1,Improper labeling of chemical containers,Labeling,Charlie Brown,Grace Moore
+409,2023-06-12,C3,Floor 1,Unlabeled samples in storage area,GMP,Charlie Brown,Grace Moore
+410,2023-06-12,C3,Floor 3,Improper waste disposal observed,Facility,Eve Miller,Grace Moore
+411,2023-06-13,C1,Floor 1,Poor documentation of procedures,Labeling,Diana Davis,Grace Moore
+412,2023-06-13,C1,Floor 3,Improper labeling of chemical containers,GMP,Bob Jones,Frank Wilson
+413,2023-06-13,C2,Floor 2,Inadequate personal protective equipment,Facility,Hank Taylor,Frank Wilson
+414,2023-06-14,C2,Floor 3,Faulty air filtration system detected,GMP,Charlie Brown,Grace Moore
+415,2023-06-14,C1,Floor 2,Faulty air filtration system detected,GMP,Diana Davis,Grace Moore
+416,2023-06-14,C2,Floor 2,Expired reagents found in laboratory,Facility,Jane Johnson,Frank Wilson
+417,2023-06-14,C1,Floor 2,Inadequate personal protective equipment,Labeling,Hank Taylor,Grace Moore
+418,2023-06-15,C2,Floor 1,Improper labeling of chemical containers,Facility,Diana Davis,Grace Moore
+419,2023-06-15,C2,Floor 2,Poor documentation of procedures,Labeling,Diana Davis,Frank Wilson
+420,2023-06-16,C1,Floor 1,Inadequate personal protective equipment,Facility,Bob Jones,Frank Wilson
+421,2023-06-16,C1,Floor 1,Expired reagents found in laboratory,Labeling,Hank Taylor,Grace Moore
+422,2023-06-16,C2,Floor 2,Inadequate personal protective equipment,Labeling,John Smith,Frank Wilson
+423,2023-06-16,C2,Floor 3,Poor documentation of procedures,Labeling,John Smith,Grace Moore
+424,2023-06-16,C1,Floor 3,Temperature control issues in storage,GMP,Jane Johnson,Grace Moore
+425,2023-06-16,C3,Floor 2,Improper waste disposal observed,Labeling,Jane Johnson,Grace Moore
+426,2023-06-17,C1,Floor 1,Non-compliance with GMP standards,GMP,Diana Davis,Grace Moore
+427,2023-06-18,C3,Floor 1,Improper labeling of chemical containers,Facility,Bob Jones,Grace Moore
+428,2023-06-18,C3,Floor 2,Non-compliance with GMP standards,Facility,John Smith,Grace Moore
+429,2023-06-18,C3,Floor 2,Improper labeling of chemical containers,GMP,John Smith,Grace Moore
+430,2023-06-19,C2,Floor 2,Non-compliance with GMP standards,Facility,Bob Jones,Frank Wilson
+431,2023-06-19,C3,Floor 3,Non-compliance with GMP standards,GMP,John Smith,Frank Wilson
+432,2023-06-19,C1,Floor 3,Inadequate personal protective equipment,GMP,Bob Jones,Grace Moore
+433,2023-06-20,C3,Floor 2,Faulty air filtration system detected,Facility,Bob Jones,Frank Wilson
+434,2023-06-20,C3,Floor 1,Temperature control issues in storage,Facility,Alice Williams,Grace Moore
+435,2023-06-20,C2,Floor 1,Temperature control issues in storage,GMP,Diana Davis,Frank Wilson
+436,2023-06-20,C1,Floor 2,Faulty air filtration system detected,GMP,Hank Taylor,Grace Moore
+437,2023-06-21,C1,Floor 2,Inadequate personal protective equipment,GMP,Diana Davis,Grace Moore
+438,2023-06-21,C2,Floor 2,Expired reagents found in laboratory,Labeling,Bob Jones,Frank Wilson
+439,2023-06-21,C2,Floor 3,Improper waste disposal observed,Labeling,Bob Jones,Grace Moore
+440,2023-06-21,C3,Floor 3,Non-compliance with GMP standards,Facility,John Smith,Frank Wilson
+441,2023-06-21,C2,Floor 1,Unlabeled samples in storage area,GMP,Bob Jones,Frank Wilson
+442,2023-06-22,C2,Floor 3,Unlabeled samples in storage area,Labeling,Charlie Brown,Frank Wilson
+443,2023-06-22,C1,Floor 3,Poor documentation of procedures,GMP,Jane Johnson,Grace Moore
+444,2023-06-22,C1,Floor 1,Unlabeled samples in storage area,Facility,Bob Jones,Grace Moore
+445,2023-06-23,C3,Floor 1,Non-compliance with GMP standards,Facility,Alice Williams,Frank Wilson
+446,2023-06-23,C2,Floor 2,Inadequate personal protective equipment,GMP,Bob Jones,Grace Moore
+447,2023-06-23,C2,Floor 3,Improper labeling of chemical containers,Facility,Eve Miller,Grace Moore
+448,2023-06-23,C3,Floor 1,Faulty air filtration system detected,Facility,Eve Miller,Grace Moore
+449,2023-06-24,C3,Floor 3,Faulty air filtration system detected,Facility,Charlie Brown,Frank Wilson
+450,2023-06-24,C3,Floor 2,Expired reagents found in laboratory,GMP,John Smith,Grace Moore
+451,2023-06-24,C3,Floor 3,Inadequate personal protective equipment,Labeling,Hank Taylor,Frank Wilson
+452,2023-06-24,C3,Floor 1,Poor documentation of procedures,Facility,Alice Williams,Frank Wilson
+453,2023-06-25,C3,Floor 3,Temperature control issues in storage,Labeling,Eve Miller,Grace Moore
+454,2023-06-25,C1,Floor 2,Unsterilized equipment in use,Facility,Bob Jones,Frank Wilson
+455,2023-06-25,C2,Floor 2,Unlabeled samples in storage area,GMP,Alice Williams,Frank Wilson
+456,2023-06-25,C1,Floor 2,Unlabeled samples in storage area,Facility,Bob Jones,Grace Moore
+457,2023-06-25,C3,Floor 2,Improper waste disposal observed,Labeling,Jane Johnson,Grace Moore
+458,2023-06-26,C2,Floor 1,Improper labeling of chemical containers,Labeling,Charlie Brown,Grace Moore
+459,2023-06-26,C2,Floor 1,Inadequate personal protective equipment,Facility,Alice Williams,Frank Wilson
+460,2023-06-26,C3,Floor 1,Improper labeling of chemical containers,Facility,Alice Williams,Grace Moore
+461,2023-06-26,C2,Floor 3,Improper waste disposal observed,GMP,John Smith,Frank Wilson
+462,2023-06-26,C1,Floor 1,Improper waste disposal observed,GMP,Charlie Brown,Frank Wilson
+463,2023-06-27,C2,Floor 1,Inadequate personal protective equipment,Labeling,Bob Jones,Grace Moore
+464,2023-06-27,C1,Floor 2,Unsterilized equipment in use,Labeling,Charlie Brown,Grace Moore
+465,2023-06-28,C2,Floor 2,Unsterilized equipment in use,Facility,Charlie Brown,Frank Wilson
+466,2023-06-28,C1,Floor 1,Inadequate personal protective equipment,Labeling,Alice Williams,Frank Wilson
+467,2023-06-28,C2,Floor 3,Non-compliance with GMP standards,Labeling,Alice Williams,Frank Wilson
+468,2023-06-28,C1,Floor 3,Poor documentation of procedures,GMP,Eve Miller,Grace Moore
+469,2023-06-28,C3,Floor 3,Poor documentation of procedures,Labeling,Bob Jones,Frank Wilson
+470,2023-06-29,C3,Floor 2,Faulty air filtration system detected,Facility,Bob Jones,Frank Wilson
+471,2023-06-29,C1,Floor 1,Expired reagents found in laboratory,GMP,Charlie Brown,Grace Moore
+472,2023-06-29,C3,Floor 2,Improper waste disposal observed,GMP,Jane Johnson,Frank Wilson
+473,2023-06-29,C2,Floor 3,Poor documentation of procedures,Facility,Alice Williams,Frank Wilson
+474,2023-06-29,C2,Floor 2,Poor documentation of procedures,Labeling,Alice Williams,Grace Moore
+475,2023-06-29,C1,Floor 2,Unlabeled samples in storage area,Labeling,Diana Davis,Frank Wilson
+476,2023-06-30,C3,Floor 3,Inadequate personal protective equipment,Labeling,Hank Taylor,Frank Wilson
+477,2023-06-30,C3,Floor 2,Poor documentation of procedures,GMP,Jane Johnson,Grace Moore
+478,2023-06-30,C1,Floor 1,Unlabeled samples in storage area,Facility,Charlie Brown,Frank Wilson
+479,2023-06-30,C1,Floor 3,Improper waste disposal observed,GMP,Bob Jones,Grace Moore
+480,2023-07-01,C1,Floor 1,Faulty air filtration system detected,Facility,Alice Williams,Frank Wilson
+481,2023-07-01,C3,Floor 2,Faulty air filtration system detected,Facility,Charlie Brown,Grace Moore
+482,2023-07-01,C3,Floor 2,Temperature control issues in storage,GMP,Diana Davis,Frank Wilson
+483,2023-07-02,C2,Floor 1,Poor documentation of procedures,GMP,John Smith,Grace Moore
+484,2023-07-02,C2,Floor 3,Unsterilized equipment in use,Labeling,Hank Taylor,Frank Wilson
+485,2023-07-02,C2,Floor 1,Improper labeling of chemical containers,Labeling,Hank Taylor,Grace Moore
+486,2023-07-02,C1,Floor 1,Improper waste disposal observed,Facility,Eve Miller,Grace Moore
+487,2023-07-03,C2,Floor 3,Faulty air filtration system detected,Labeling,Hank Taylor,Frank Wilson
+488,2023-07-03,C3,Floor 2,Unsterilized equipment in use,GMP,John Smith,Frank Wilson
+489,2023-07-03,C2,Floor 1,Poor documentation of procedures,GMP,Diana Davis,Grace Moore
+490,2023-07-03,C2,Floor 3,Temperature control issues in storage,GMP,Eve Miller,Frank Wilson
+491,2023-07-04,C2,Floor 2,Expired reagents found in laboratory,GMP,Charlie Brown,Frank Wilson
+492,2023-07-04,C3,Floor 1,Inadequate personal protective equipment,GMP,Hank Taylor,Frank Wilson
+493,2023-07-05,C1,Floor 1,Poor documentation of procedures,GMP,Alice Williams,Grace Moore
+494,2023-07-05,C1,Floor 3,Faulty air filtration system detected,GMP,John Smith,Frank Wilson
+495,2023-07-05,C3,Floor 3,Faulty air filtration system detected,GMP,Bob Jones,Grace Moore
+496,2023-07-07,C2,Floor 3,Faulty air filtration system detected,Labeling,Jane Johnson,Grace Moore
+497,2023-07-07,C2,Floor 1,Unlabeled samples in storage area,Facility,Bob Jones,Grace Moore
+498,2023-07-07,C3,Floor 1,Non-compliance with GMP standards,Facility,John Smith,Frank Wilson
+499,2023-07-08,C2,Floor 2,Inadequate personal protective equipment,GMP,Bob Jones,Grace Moore
+500,2023-07-08,C3,Floor 2,Expired reagents found in laboratory,Facility,John Smith,Frank Wilson
+501,2023-07-08,C3,Floor 2,Expired reagents found in laboratory,Labeling,Alice Williams,Frank Wilson
+502,2023-07-09,C3,Floor 3,Improper waste disposal observed,Labeling,Bob Jones,Grace Moore
+503,2023-07-10,C2,Floor 3,Improper labeling of chemical containers,Labeling,John Smith,Frank Wilson
+504,2023-07-10,C3,Floor 1,Poor documentation of procedures,GMP,Jane Johnson,Grace Moore
+505,2023-07-10,C1,Floor 3,Expired reagents found in laboratory,Facility,Eve Miller,Frank Wilson
+506,2023-07-10,C1,Floor 3,Non-compliance with GMP standards,Facility,Jane Johnson,Frank Wilson
+507,2023-07-10,C3,Floor 1,Expired reagents found in laboratory,Labeling,Diana Davis,Frank Wilson
+508,2023-07-10,C1,Floor 1,Unsterilized equipment in use,Facility,Hank Taylor,Grace Moore
+509,2023-07-11,C1,Floor 2,Faulty air filtration system detected,Labeling,Diana Davis,Frank Wilson
+510,2023-07-12,C1,Floor 2,Improper waste disposal observed,Labeling,Alice Williams,Grace Moore
+511,2023-07-12,C2,Floor 1,Unlabeled samples in storage area,Facility,Charlie Brown,Frank Wilson
+512,2023-07-13,C1,Floor 2,Non-compliance with GMP standards,Facility,Hank Taylor,Grace Moore
+513,2023-07-13,C2,Floor 3,Improper labeling of chemical containers,Facility,Charlie Brown,Frank Wilson
+514,2023-07-13,C3,Floor 2,Poor documentation of procedures,Facility,John Smith,Frank Wilson
+515,2023-07-13,C2,Floor 1,Poor documentation of procedures,GMP,John Smith,Grace Moore
+516,2023-07-14,C2,Floor 1,Non-compliance with GMP standards,GMP,Alice Williams,Grace Moore
+517,2023-07-14,C2,Floor 2,Poor documentation of procedures,Labeling,Eve Miller,Frank Wilson
+518,2023-07-14,C1,Floor 2,Unsterilized equipment in use,Labeling,Alice Williams,Grace Moore
+519,2023-07-14,C3,Floor 3,Improper labeling of chemical containers,GMP,Bob Jones,Grace Moore
+520,2023-07-14,C2,Floor 2,Improper waste disposal observed,Labeling,Diana Davis,Frank Wilson
+521,2023-07-15,C2,Floor 2,Unlabeled samples in storage area,Facility,John Smith,Frank Wilson
+522,2023-07-15,C1,Floor 2,Faulty air filtration system detected,GMP,Jane Johnson,Frank Wilson
+523,2023-07-15,C1,Floor 2,Improper waste disposal observed,Facility,Bob Jones,Frank Wilson
+524,2023-07-15,C2,Floor 2,Temperature control issues in storage,Facility,Eve Miller,Grace Moore
+525,2023-07-15,C3,Floor 3,Poor documentation of procedures,GMP,Eve Miller,Frank Wilson
+526,2023-07-15,C3,Floor 2,Unlabeled samples in storage area,Labeling,Alice Williams,Grace Moore
+527,2023-07-16,C1,Floor 2,Expired reagents found in laboratory,GMP,Hank Taylor,Grace Moore
+528,2023-07-17,C2,Floor 1,Unsterilized equipment in use,GMP,Alice Williams,Frank Wilson
+529,2023-07-17,C2,Floor 3,Unsterilized equipment in use,GMP,Diana Davis,Grace Moore
+530,2023-07-17,C3,Floor 1,Unsterilized equipment in use,GMP,Jane Johnson,Frank Wilson
+531,2023-07-17,C3,Floor 1,Non-compliance with GMP standards,GMP,Charlie Brown,Frank Wilson
+532,2023-07-17,C3,Floor 3,Expired reagents found in laboratory,Labeling,Alice Williams,Grace Moore
+533,2023-07-17,C1,Floor 1,Improper labeling of chemical containers,GMP,Bob Jones,Frank Wilson
+534,2023-07-17,C3,Floor 2,Poor documentation of procedures,Labeling,John Smith,Frank Wilson
+535,2023-07-18,C1,Floor 2,Unsterilized equipment in use,GMP,Hank Taylor,Frank Wilson
+536,2023-07-19,C1,Floor 1,Inadequate personal protective equipment,GMP,John Smith,Frank Wilson
+537,2023-07-19,C3,Floor 3,Inadequate personal protective equipment,Labeling,John Smith,Grace Moore
+538,2023-07-19,C3,Floor 3,Unsterilized equipment in use,Facility,Alice Williams,Grace Moore
+539,2023-07-19,C2,Floor 2,Improper waste disposal observed,Facility,Bob Jones,Grace Moore
+540,2023-07-19,C3,Floor 2,Non-compliance with GMP standards,Facility,Diana Davis,Frank Wilson
+541,2023-07-19,C2,Floor 3,Improper waste disposal observed,GMP,Diana Davis,Grace Moore
+542,2023-07-20,C1,Floor 3,Improper labeling of chemical containers,Labeling,Charlie Brown,Grace Moore
+543,2023-07-21,C3,Floor 2,Expired reagents found in laboratory,Labeling,Bob Jones,Frank Wilson
+544,2023-07-21,C3,Floor 1,Improper waste disposal observed,Facility,John Smith,Grace Moore
+545,2023-07-21,C2,Floor 1,Inadequate personal protective equipment,GMP,Charlie Brown,Frank Wilson
+546,2023-07-21,C1,Floor 1,Faulty air filtration system detected,Facility,Charlie Brown,Grace Moore
+547,2023-07-21,C2,Floor 3,Faulty air filtration system detected,Facility,Eve Miller,Grace Moore
+548,2023-07-21,C1,Floor 2,Expired reagents found in laboratory,Labeling,Eve Miller,Frank Wilson
+549,2023-07-22,C3,Floor 3,Unlabeled samples in storage area,Facility,Alice Williams,Frank Wilson
+550,2023-07-23,C1,Floor 2,Poor documentation of procedures,Facility,Diana Davis,Frank Wilson
+551,2023-07-23,C2,Floor 2,Inadequate personal protective equipment,Facility,John Smith,Grace Moore
+552,2023-07-23,C1,Floor 3,Poor documentation of procedures,Facility,Jane Johnson,Frank Wilson
+553,2023-07-23,C2,Floor 1,Non-compliance with GMP standards,GMP,Bob Jones,Grace Moore
+554,2023-07-23,C3,Floor 1,Non-compliance with GMP standards,GMP,Bob Jones,Grace Moore
+555,2023-07-23,C3,Floor 2,Improper labeling of chemical containers,Facility,Hank Taylor,Frank Wilson
+556,2023-07-23,C1,Floor 3,Improper waste disposal observed,GMP,Charlie Brown,Frank Wilson
+557,2023-07-24,C3,Floor 2,Inadequate personal protective equipment,Facility,John Smith,Frank Wilson
+558,2023-07-25,C3,Floor 2,Improper waste disposal observed,Labeling,Charlie Brown,Grace Moore
+559,2023-07-25,C3,Floor 2,Unsterilized equipment in use,GMP,Eve Miller,Grace Moore
+560,2023-07-26,C3,Floor 3,Faulty air filtration system detected,GMP,John Smith,Frank Wilson
+561,2023-07-26,C3,Floor 2,Improper labeling of chemical containers,GMP,Charlie Brown,Frank Wilson
+562,2023-07-26,C1,Floor 3,Poor documentation of procedures,GMP,Alice Williams,Grace Moore
+563,2023-07-28,C2,Floor 3,Poor documentation of procedures,Labeling,Alice Williams,Grace Moore
+564,2023-07-28,C3,Floor 2,Unlabeled samples in storage area,Facility,John Smith,Frank Wilson
+565,2023-07-28,C3,Floor 2,Unsterilized equipment in use,Facility,Diana Davis,Frank Wilson
+566,2023-07-29,C2,Floor 2,Non-compliance with GMP standards,GMP,Charlie Brown,Frank Wilson
+567,2023-07-30,C3,Floor 2,Improper waste disposal observed,Labeling,Diana Davis,Frank Wilson
+568,2023-07-30,C2,Floor 1,Unlabeled samples in storage area,Labeling,Bob Jones,Frank Wilson
+569,2023-08-01,C3,Floor 2,Improper labeling of chemical containers,GMP,Hank Taylor,Grace Moore
+570,2023-08-01,C3,Floor 3,Non-compliance with GMP standards,Labeling,Hank Taylor,Frank Wilson
+571,2023-08-02,C2,Floor 1,Inadequate personal protective equipment,GMP,Hank Taylor,Grace Moore
+572,2023-08-02,C1,Floor 2,Poor documentation of procedures,Labeling,Bob Jones,Frank Wilson
+573,2023-08-02,C3,Floor 2,Inadequate personal protective equipment,Labeling,Jane Johnson,Grace Moore
+574,2023-08-02,C3,Floor 2,Unlabeled samples in storage area,Facility,Charlie Brown,Frank Wilson
+575,2023-08-02,C2,Floor 3,Improper labeling of chemical containers,GMP,Eve Miller,Frank Wilson
+576,2023-08-03,C2,Floor 2,Improper waste disposal observed,Labeling,John Smith,Frank Wilson
+577,2023-08-03,C3,Floor 3,Unlabeled samples in storage area,GMP,Eve Miller,Frank Wilson
+578,2023-08-03,C1,Floor 3,Improper labeling of chemical containers,GMP,Bob Jones,Frank Wilson
+579,2023-08-03,C2,Floor 1,Faulty air filtration system detected,Facility,Jane Johnson,Frank Wilson
+580,2023-08-03,C1,Floor 3,Poor documentation of procedures,Facility,Jane Johnson,Grace Moore
+581,2023-08-04,C2,Floor 3,Inadequate personal protective equipment,GMP,Eve Miller,Grace Moore
+582,2023-08-05,C3,Floor 2,Improper waste disposal observed,Labeling,Charlie Brown,Grace Moore
+583,2023-08-05,C2,Floor 2,Unlabeled samples in storage area,Facility,Alice Williams,Grace Moore
+584,2023-08-05,C2,Floor 3,Faulty air filtration system detected,Labeling,Jane Johnson,Grace Moore
+585,2023-08-06,C2,Floor 1,Unsterilized equipment in use,Labeling,Alice Williams,Grace Moore
+586,2023-08-06,C2,Floor 2,Non-compliance with GMP standards,Facility,Alice Williams,Grace Moore
+587,2023-08-06,C3,Floor 1,Faulty air filtration system detected,GMP,Alice Williams,Grace Moore
+588,2023-08-06,C1,Floor 3,Inadequate personal protective equipment,Facility,Hank Taylor,Grace Moore
+589,2023-08-07,C3,Floor 1,Inadequate personal protective equipment,Labeling,Alice Williams,Grace Moore
+590,2023-08-07,C3,Floor 3,Unlabeled samples in storage area,GMP,Jane Johnson,Grace Moore
+591,2023-08-07,C1,Floor 2,Non-compliance with GMP standards,GMP,Diana Davis,Frank Wilson
+592,2023-08-08,C1,Floor 1,Expired reagents found in laboratory,Labeling,Charlie Brown,Frank Wilson
+593,2023-08-08,C2,Floor 3,Expired reagents found in laboratory,GMP,John Smith,Frank Wilson
+594,2023-08-09,C3,Floor 2,Improper waste disposal observed,Labeling,Jane Johnson,Grace Moore
+595,2023-08-09,C2,Floor 3,Temperature control issues in storage,GMP,Eve Miller,Frank Wilson
+596,2023-08-09,C2,Floor 1,Poor documentation of procedures,Facility,Jane Johnson,Frank Wilson
+597,2023-08-09,C1,Floor 3,Expired reagents found in laboratory,GMP,Eve Miller,Grace Moore
+598,2023-08-09,C3,Floor 3,Unsterilized equipment in use,Labeling,Alice Williams,Frank Wilson
+599,2023-08-10,C3,Floor 2,Expired reagents found in laboratory,GMP,John Smith,Grace Moore
+600,2023-08-10,C1,Floor 1,Non-compliance with GMP standards,GMP,Alice Williams,Frank Wilson
+601,2023-08-10,C3,Floor 1,Improper labeling of chemical containers,Labeling,Charlie Brown,Grace Moore
+602,2023-08-11,C1,Floor 2,Inadequate personal protective equipment,Labeling,John Smith,Grace Moore
+603,2023-08-11,C2,Floor 1,Unlabeled samples in storage area,GMP,Diana Davis,Grace Moore
+604,2023-08-13,C2,Floor 1,Unlabeled samples in storage area,GMP,Hank Taylor,Grace Moore
+605,2023-08-13,C1,Floor 2,Unsterilized equipment in use,Facility,Charlie Brown,Frank Wilson
+606,2023-08-14,C2,Floor 3,Improper waste disposal observed,GMP,Jane Johnson,Grace Moore
+607,2023-08-14,C2,Floor 1,Temperature control issues in storage,Facility,Alice Williams,Grace Moore
+608,2023-08-14,C1,Floor 3,Faulty air filtration system detected,GMP,Alice Williams,Grace Moore
+609,2023-08-15,C2,Floor 1,Improper waste disposal observed,Labeling,Jane Johnson,Grace Moore
+610,2023-08-15,C2,Floor 3,Unlabeled samples in storage area,Facility,Eve Miller,Grace Moore
+611,2023-08-15,C2,Floor 2,Poor documentation of procedures,Labeling,Bob Jones,Grace Moore
+612,2023-08-15,C1,Floor 3,Unsterilized equipment in use,Labeling,Hank Taylor,Grace Moore
+613,2023-08-15,C2,Floor 2,Non-compliance with GMP standards,GMP,Eve Miller,Frank Wilson
+614,2023-08-15,C2,Floor 1,Inadequate personal protective equipment,Facility,Alice Williams,Frank Wilson
+615,2023-08-15,C2,Floor 1,Expired reagents found in laboratory,GMP,John Smith,Frank Wilson
+616,2023-08-15,C3,Floor 1,Inadequate personal protective equipment,Labeling,Diana Davis,Frank Wilson
+617,2023-08-16,C2,Floor 1,Temperature control issues in storage,Labeling,John Smith,Grace Moore
+618,2023-08-16,C2,Floor 1,Improper waste disposal observed,GMP,Jane Johnson,Frank Wilson
+619,2023-08-16,C3,Floor 2,Non-compliance with GMP standards,Facility,Jane Johnson,Grace Moore
+620,2023-08-17,C1,Floor 3,Unsterilized equipment in use,Facility,Eve Miller,Grace Moore
+621,2023-08-17,C1,Floor 1,Improper waste disposal observed,Facility,Jane Johnson,Frank Wilson
+622,2023-08-17,C3,Floor 3,Poor documentation of procedures,GMP,Diana Davis,Frank Wilson
+623,2023-08-18,C2,Floor 1,Faulty air filtration system detected,Facility,John Smith,Frank Wilson
+624,2023-08-18,C3,Floor 2,Non-compliance with GMP standards,Labeling,Eve Miller,Frank Wilson
+625,2023-08-18,C1,Floor 2,Temperature control issues in storage,Labeling,Charlie Brown,Grace Moore
+626,2023-08-19,C2,Floor 2,Temperature control issues in storage,GMP,Charlie Brown,Grace Moore
+627,2023-08-19,C2,Floor 1,Temperature control issues in storage,Labeling,Eve Miller,Frank Wilson
+628,2023-08-20,C2,Floor 2,Unsterilized equipment in use,Labeling,John Smith,Grace Moore
+629,2023-08-20,C2,Floor 1,Faulty air filtration system detected,Facility,Alice Williams,Grace Moore
+630,2023-08-21,C3,Floor 3,Unlabeled samples in storage area,Labeling,Hank Taylor,Grace Moore
+631,2023-08-21,C3,Floor 3,Unsterilized equipment in use,Labeling,Eve Miller,Grace Moore
+632,2023-08-21,C2,Floor 3,Temperature control issues in storage,Labeling,Charlie Brown,Grace Moore
+633,2023-08-21,C1,Floor 3,Inadequate personal protective equipment,Labeling,John Smith,Grace Moore
+634,2023-08-22,C3,Floor 1,Poor documentation of procedures,Facility,Diana Davis,Grace Moore
+635,2023-08-23,C3,Floor 1,Unlabeled samples in storage area,GMP,Eve Miller,Frank Wilson
+636,2023-08-24,C2,Floor 1,Improper labeling of chemical containers,Labeling,Jane Johnson,Frank Wilson
+637,2023-08-24,C2,Floor 3,Unlabeled samples in storage area,Facility,Alice Williams,Grace Moore
+638,2023-08-25,C1,Floor 3,Improper labeling of chemical containers,Facility,Jane Johnson,Frank Wilson
+639,2023-08-25,C2,Floor 2,Inadequate personal protective equipment,GMP,Eve Miller,Frank Wilson
+640,2023-08-25,C2,Floor 3,Expired reagents found in laboratory,GMP,Eve Miller,Frank Wilson
+641,2023-08-25,C3,Floor 3,Inadequate personal protective equipment,Labeling,Alice Williams,Grace Moore
+642,2023-08-26,C2,Floor 3,Poor documentation of procedures,Labeling,Hank Taylor,Grace Moore
+643,2023-08-26,C2,Floor 2,Inadequate personal protective equipment,Labeling,Alice Williams,Frank Wilson
+644,2023-08-26,C3,Floor 3,Expired reagents found in laboratory,Labeling,Diana Davis,Frank Wilson
+645,2023-08-27,C2,Floor 2,Non-compliance with GMP standards,Facility,Diana Davis,Frank Wilson
+646,2023-08-27,C1,Floor 3,Faulty air filtration system detected,GMP,Eve Miller,Frank Wilson
+647,2023-08-27,C2,Floor 2,Non-compliance with GMP standards,Labeling,Bob Jones,Grace Moore
+648,2023-08-27,C3,Floor 1,Poor documentation of procedures,Labeling,Diana Davis,Frank Wilson
+649,2023-08-27,C2,Floor 2,Unsterilized equipment in use,Facility,Eve Miller,Grace Moore
+650,2023-08-28,C3,Floor 1,Improper waste disposal observed,GMP,John Smith,Grace Moore
+651,2023-08-28,C1,Floor 1,Improper labeling of chemical containers,GMP,Hank Taylor,Frank Wilson
+652,2023-08-28,C3,Floor 1,Improper waste disposal observed,GMP,Alice Williams,Grace Moore
+653,2023-08-28,C2,Floor 1,Improper waste disposal observed,GMP,John Smith,Grace Moore
+654,2023-08-28,C1,Floor 1,Improper waste disposal observed,GMP,Diana Davis,Grace Moore
+655,2023-08-29,C1,Floor 1,Inadequate personal protective equipment,GMP,Charlie Brown,Grace Moore
+656,2023-08-29,C3,Floor 3,Non-compliance with GMP standards,GMP,Eve Miller,Grace Moore
+657,2023-08-29,C2,Floor 1,Unsterilized equipment in use,GMP,Jane Johnson,Frank Wilson
+658,2023-08-29,C1,Floor 3,Faulty air filtration system detected,Facility,Hank Taylor,Grace Moore
+659,2023-08-30,C1,Floor 1,Unlabeled samples in storage area,Labeling,John Smith,Grace Moore
+660,2023-08-30,C2,Floor 3,Expired reagents found in laboratory,Labeling,John Smith,Grace Moore
+661,2023-08-30,C1,Floor 2,Faulty air filtration system detected,GMP,Alice Williams,Grace Moore
+662,2023-08-31,C3,Floor 2,Non-compliance with GMP standards,Labeling,Hank Taylor,Frank Wilson
+663,2023-08-31,C2,Floor 2,Inadequate personal protective equipment,Facility,Diana Davis,Grace Moore
+664,2023-09-01,C3,Floor 2,Faulty air filtration system detected,GMP,Eve Miller,Frank Wilson
+665,2023-09-01,C2,Floor 1,Improper labeling of chemical containers,Labeling,Hank Taylor,Frank Wilson
+666,2023-09-02,C1,Floor 2,Non-compliance with GMP standards,Labeling,Charlie Brown,Frank Wilson
+667,2023-09-02,C1,Floor 1,Temperature control issues in storage,Facility,Eve Miller,Frank Wilson
+668,2023-09-02,C2,Floor 3,Non-compliance with GMP standards,Labeling,Diana Davis,Grace Moore
+669,2023-09-02,C1,Floor 2,Temperature control issues in storage,GMP,Hank Taylor,Frank Wilson
+670,2023-09-02,C2,Floor 3,Inadequate personal protective equipment,Facility,Eve Miller,Frank Wilson
+671,2023-09-03,C2,Floor 3,Unsterilized equipment in use,Labeling,John Smith,Frank Wilson
+672,2023-09-03,C2,Floor 2,Improper labeling of chemical containers,Facility,Bob Jones,Grace Moore
+673,2023-09-04,C3,Floor 3,Improper labeling of chemical containers,Labeling,Alice Williams,Grace Moore
+674,2023-09-04,C2,Floor 2,Inadequate personal protective equipment,Labeling,John Smith,Frank Wilson
+675,2023-09-04,C1,Floor 3,Unlabeled samples in storage area,Labeling,Hank Taylor,Grace Moore
+676,2023-09-05,C1,Floor 3,Faulty air filtration system detected,GMP,Bob Jones,Grace Moore
+677,2023-09-05,C1,Floor 3,Faulty air filtration system detected,Labeling,Charlie Brown,Frank Wilson
+678,2023-09-05,C2,Floor 3,Poor documentation of procedures,Labeling,Bob Jones,Grace Moore
+679,2023-09-05,C2,Floor 3,Faulty air filtration system detected,Labeling,Alice Williams,Frank Wilson
+680,2023-09-06,C1,Floor 1,Temperature control issues in storage,Labeling,Diana Davis,Grace Moore
+681,2023-09-06,C2,Floor 3,Inadequate personal protective equipment,GMP,John Smith,Frank Wilson
+682,2023-09-06,C2,Floor 3,Improper waste disposal observed,Labeling,John Smith,Grace Moore
+683,2023-09-06,C3,Floor 1,Inadequate personal protective equipment,Labeling,Alice Williams,Grace Moore
+684,2023-09-07,C3,Floor 1,Poor documentation of procedures,Facility,John Smith,Frank Wilson
+685,2023-09-07,C1,Floor 3,Improper labeling of chemical containers,Facility,Hank Taylor,Frank Wilson
+686,2023-09-07,C3,Floor 3,Expired reagents found in laboratory,Labeling,Diana Davis,Grace Moore
+687,2023-09-07,C1,Floor 3,Improper labeling of chemical containers,Labeling,Eve Miller,Frank Wilson
+688,2023-09-08,C1,Floor 1,Non-compliance with GMP standards,GMP,Alice Williams,Grace Moore
+689,2023-09-08,C3,Floor 1,Faulty air filtration system detected,Facility,Jane Johnson,Frank Wilson
+690,2023-09-08,C1,Floor 3,Improper waste disposal observed,GMP,Hank Taylor,Grace Moore
+691,2023-09-08,C1,Floor 1,Unlabeled samples in storage area,Facility,Alice Williams,Grace Moore
+692,2023-09-09,C1,Floor 2,Unsterilized equipment in use,Labeling,John Smith,Frank Wilson
+693,2023-09-09,C3,Floor 1,Expired reagents found in laboratory,Facility,Charlie Brown,Grace Moore
+694,2023-09-09,C1,Floor 2,Faulty air filtration system detected,Facility,Jane Johnson,Grace Moore
+695,2023-09-09,C1,Floor 3,Improper labeling of chemical containers,Facility,Jane Johnson,Grace Moore
+696,2023-09-10,C1,Floor 2,Unsterilized equipment in use,GMP,Diana Davis,Grace Moore
+697,2023-09-10,C2,Floor 3,Poor documentation of procedures,GMP,Charlie Brown,Frank Wilson
+698,2023-09-11,C3,Floor 3,Improper waste disposal observed,Labeling,Bob Jones,Frank Wilson
+699,2023-09-11,C3,Floor 2,Temperature control issues in storage,GMP,Alice Williams,Grace Moore
+700,2023-09-11,C2,Floor 3,Improper waste disposal observed,Labeling,Alice Williams,Grace Moore
+701,2023-09-11,C3,Floor 3,Expired reagents found in laboratory,Facility,Alice Williams,Frank Wilson
+702,2023-09-12,C2,Floor 3,Temperature control issues in storage,GMP,John Smith,Grace Moore
+703,2023-09-12,C2,Floor 3,Unlabeled samples in storage area,Labeling,Alice Williams,Grace Moore
+704,2023-09-13,C2,Floor 1,Non-compliance with GMP standards,GMP,Eve Miller,Frank Wilson
+705,2023-09-13,C2,Floor 2,Temperature control issues in storage,GMP,Charlie Brown,Grace Moore
+706,2023-09-13,C1,Floor 2,Expired reagents found in laboratory,GMP,Bob Jones,Grace Moore
+707,2023-09-15,C3,Floor 1,Temperature control issues in storage,Labeling,Diana Davis,Frank Wilson
+708,2023-09-15,C3,Floor 2,Inadequate personal protective equipment,Facility,John Smith,Grace Moore
+709,2023-09-16,C3,Floor 2,Unsterilized equipment in use,Labeling,Bob Jones,Grace Moore
+710,2023-09-16,C3,Floor 2,Improper waste disposal observed,Facility,Diana Davis,Grace Moore
+711,2023-09-16,C3,Floor 3,Improper waste disposal observed,Labeling,Hank Taylor,Grace Moore
+712,2023-09-16,C3,Floor 3,Faulty air filtration system detected,Labeling,Eve Miller,Grace Moore
+713,2023-09-16,C3,Floor 3,Temperature control issues in storage,Facility,Diana Davis,Frank Wilson
+714,2023-09-16,C2,Floor 2,Non-compliance with GMP standards,Labeling,Diana Davis,Grace Moore
+715,2023-09-16,C3,Floor 3,Expired reagents found in laboratory,Labeling,Bob Jones,Frank Wilson
+716,2023-09-17,C2,Floor 2,Improper labeling of chemical containers,Labeling,Hank Taylor,Grace Moore
+717,2023-09-18,C2,Floor 2,Expired reagents found in laboratory,Labeling,Alice Williams,Frank Wilson
+718,2023-09-18,C1,Floor 2,Improper waste disposal observed,Facility,Eve Miller,Frank Wilson
+719,2023-09-18,C2,Floor 1,Improper waste disposal observed,GMP,John Smith,Grace Moore
+720,2023-09-18,C1,Floor 3,Inadequate personal protective equipment,Facility,Hank Taylor,Grace Moore
+721,2023-09-18,C2,Floor 2,Inadequate personal protective equipment,Facility,Bob Jones,Frank Wilson
+722,2023-09-19,C2,Floor 3,Expired reagents found in laboratory,Facility,Jane Johnson,Grace Moore
+723,2023-09-19,C2,Floor 2,Faulty air filtration system detected,Facility,Eve Miller,Grace Moore
+724,2023-09-19,C2,Floor 2,Unlabeled samples in storage area,Facility,Bob Jones,Grace Moore
+725,2023-09-19,C3,Floor 2,Inadequate personal protective equipment,Facility,John Smith,Frank Wilson
+726,2023-09-20,C2,Floor 2,Unsterilized equipment in use,GMP,Diana Davis,Frank Wilson
+727,2023-09-20,C2,Floor 2,Improper waste disposal observed,Labeling,Diana Davis,Grace Moore
+728,2023-09-20,C2,Floor 3,Improper labeling of chemical containers,GMP,Bob Jones,Frank Wilson
+729,2023-09-20,C3,Floor 1,Unsterilized equipment in use,GMP,Alice Williams,Grace Moore
+730,2023-09-21,C3,Floor 1,Temperature control issues in storage,GMP,Charlie Brown,Frank Wilson
+731,2023-09-21,C1,Floor 3,Improper waste disposal observed,Facility,John Smith,Grace Moore
+732,2023-09-21,C3,Floor 2,Poor documentation of procedures,GMP,Hank Taylor,Frank Wilson
+733,2023-09-21,C2,Floor 3,Unsterilized equipment in use,GMP,Charlie Brown,Grace Moore
+734,2023-09-22,C1,Floor 2,Improper labeling of chemical containers,GMP,Diana Davis,Grace Moore
+735,2023-09-22,C2,Floor 3,Faulty air filtration system detected,Facility,Charlie Brown,Frank Wilson
+736,2023-09-23,C3,Floor 3,Faulty air filtration system detected,Labeling,Eve Miller,Frank Wilson
+737,2023-09-23,C2,Floor 1,Unsterilized equipment in use,Facility,John Smith,Grace Moore
+738,2023-09-23,C3,Floor 3,Faulty air filtration system detected,Facility,Alice Williams,Frank Wilson
+739,2023-09-24,C3,Floor 1,Improper labeling of chemical containers,Labeling,Hank Taylor,Frank Wilson
+740,2023-09-24,C2,Floor 1,Faulty air filtration system detected,Facility,Hank Taylor,Grace Moore
+741,2023-09-24,C2,Floor 1,Non-compliance with GMP standards,GMP,Charlie Brown,Grace Moore
+742,2023-09-24,C3,Floor 1,Improper waste disposal observed,Labeling,John Smith,Grace Moore
+743,2023-09-24,C2,Floor 1,Poor documentation of procedures,GMP,Hank Taylor,Frank Wilson
+744,2023-09-24,C2,Floor 1,Improper waste disposal observed,GMP,Charlie Brown,Frank Wilson
+745,2023-09-24,C2,Floor 3,Non-compliance with GMP standards,Facility,John Smith,Grace Moore
+746,2023-09-25,C2,Floor 1,Faulty air filtration system detected,Labeling,Eve Miller,Grace Moore
+747,2023-09-25,C3,Floor 2,Unlabeled samples in storage area,Facility,Jane Johnson,Grace Moore
+748,2023-09-25,C2,Floor 1,Poor documentation of procedures,Facility,Charlie Brown,Grace Moore
+749,2023-09-26,C1,Floor 2,Temperature control issues in storage,Labeling,Alice Williams,Frank Wilson
+750,2023-09-27,C2,Floor 1,Improper waste disposal observed,GMP,Alice Williams,Grace Moore
+751,2023-09-28,C1,Floor 1,Improper waste disposal observed,Labeling,Eve Miller,Frank Wilson
+752,2023-09-28,C1,Floor 1,Inadequate personal protective equipment,Facility,Eve Miller,Frank Wilson
+753,2023-09-28,C3,Floor 1,Inadequate personal protective equipment,GMP,John Smith,Frank Wilson
+754,2023-09-29,C2,Floor 2,Non-compliance with GMP standards,Facility,Diana Davis,Grace Moore
+755,2023-09-29,C1,Floor 3,Faulty air filtration system detected,GMP,John Smith,Frank Wilson
+756,2023-09-29,C2,Floor 1,Unlabeled samples in storage area,Facility,Alice Williams,Grace Moore
+757,2023-09-30,C3,Floor 3,Improper waste disposal observed,Labeling,Jane Johnson,Grace Moore
+758,2023-09-30,C3,Floor 3,Expired reagents found in laboratory,Labeling,Eve Miller,Frank Wilson
+759,2023-10-01,C3,Floor 3,Temperature control issues in storage,Labeling,Hank Taylor,Grace Moore
+760,2023-10-01,C3,Floor 2,Poor documentation of procedures,Facility,Diana Davis,Frank Wilson
+761,2023-10-01,C1,Floor 3,Inadequate personal protective equipment,Facility,Bob Jones,Grace Moore
+762,2023-10-01,C2,Floor 1,Improper labeling of chemical containers,Facility,Jane Johnson,Grace Moore
+763,2023-10-03,C3,Floor 1,Unlabeled samples in storage area,Labeling,Bob Jones,Frank Wilson
+764,2023-10-03,C3,Floor 3,Faulty air filtration system detected,Labeling,Alice Williams,Frank Wilson
+765,2023-10-04,C3,Floor 3,Improper waste disposal observed,Labeling,Charlie Brown,Grace Moore
+766,2023-10-04,C1,Floor 3,Improper waste disposal observed,Facility,John Smith,Grace Moore
+767,2023-10-05,C3,Floor 2,Unsterilized equipment in use,Labeling,Eve Miller,Grace Moore
+768,2023-10-05,C2,Floor 3,Inadequate personal protective equipment,GMP,Diana Davis,Frank Wilson
+769,2023-10-06,C3,Floor 1,Inadequate personal protective equipment,GMP,Eve Miller,Frank Wilson
+770,2023-10-06,C3,Floor 1,Poor documentation of procedures,GMP,Eve Miller,Grace Moore
+771,2023-10-06,C3,Floor 1,Improper waste disposal observed,Labeling,Eve Miller,Grace Moore
+772,2023-10-06,C2,Floor 1,Inadequate personal protective equipment,Labeling,John Smith,Frank Wilson
+773,2023-10-06,C3,Floor 3,Improper waste disposal observed,GMP,Hank Taylor,Grace Moore
+774,2023-10-07,C3,Floor 3,Expired reagents found in laboratory,Facility,Bob Jones,Grace Moore
+775,2023-10-08,C1,Floor 3,Inadequate personal protective equipment,GMP,Eve Miller,Grace Moore
+776,2023-10-08,C1,Floor 2,Unsterilized equipment in use,Labeling,Charlie Brown,Grace Moore
+777,2023-10-09,C3,Floor 1,Poor documentation of procedures,Labeling,Eve Miller,Grace Moore
+778,2023-10-09,C3,Floor 1,Unsterilized equipment in use,Facility,Charlie Brown,Grace Moore
+779,2023-10-09,C1,Floor 1,Unlabeled samples in storage area,Facility,Alice Williams,Frank Wilson
+780,2023-10-09,C1,Floor 1,Expired reagents found in laboratory,Labeling,John Smith,Grace Moore
+781,2023-10-09,C2,Floor 2,Expired reagents found in laboratory,Labeling,Diana Davis,Grace Moore
+782,2023-10-09,C3,Floor 3,Non-compliance with GMP standards,Labeling,Bob Jones,Grace Moore
+783,2023-10-10,C2,Floor 1,Faulty air filtration system detected,Facility,John Smith,Frank Wilson
+784,2023-10-10,C2,Floor 2,Temperature control issues in storage,Labeling,Hank Taylor,Grace Moore
+785,2023-10-10,C3,Floor 3,Temperature control issues in storage,Labeling,Alice Williams,Grace Moore
+786,2023-10-11,C1,Floor 1,Non-compliance with GMP standards,Labeling,Bob Jones,Frank Wilson
+787,2023-10-11,C2,Floor 1,Faulty air filtration system detected,GMP,Charlie Brown,Frank Wilson
+788,2023-10-11,C2,Floor 1,Faulty air filtration system detected,Facility,Hank Taylor,Grace Moore
+789,2023-10-12,C1,Floor 2,Poor documentation of procedures,Facility,Bob Jones,Grace Moore
+790,2023-10-12,C2,Floor 2,Improper waste disposal observed,Facility,Bob Jones,Frank Wilson
+791,2023-10-12,C1,Floor 2,Temperature control issues in storage,GMP,Jane Johnson,Frank Wilson
+792,2023-10-13,C3,Floor 3,Improper waste disposal observed,GMP,Hank Taylor,Grace Moore
+793,2023-10-13,C1,Floor 1,Non-compliance with GMP standards,Labeling,Bob Jones,Frank Wilson
+794,2023-10-14,C3,Floor 1,Improper waste disposal observed,GMP,Bob Jones,Frank Wilson
+795,2023-10-14,C1,Floor 2,Inadequate personal protective equipment,Facility,Hank Taylor,Frank Wilson
+796,2023-10-15,C3,Floor 3,Unsterilized equipment in use,Labeling,Jane Johnson,Frank Wilson
+797,2023-10-15,C3,Floor 1,Unsterilized equipment in use,Facility,John Smith,Grace Moore
+798,2023-10-16,C1,Floor 2,Improper labeling of chemical containers,Facility,Diana Davis,Grace Moore
+799,2023-10-17,C3,Floor 3,Non-compliance with GMP standards,Labeling,Eve Miller,Frank Wilson
+800,2023-10-18,C1,Floor 2,Improper waste disposal observed,Facility,Charlie Brown,Grace Moore
+801,2023-10-18,C1,Floor 1,Inadequate personal protective equipment,GMP,Jane Johnson,Grace Moore
+802,2023-10-18,C3,Floor 3,Improper labeling of chemical containers,Labeling,Jane Johnson,Frank Wilson
+803,2023-10-18,C2,Floor 3,Inadequate personal protective equipment,Labeling,Bob Jones,Grace Moore
+804,2023-10-18,C1,Floor 2,Unlabeled samples in storage area,Facility,Eve Miller,Grace Moore
+805,2023-10-19,C3,Floor 1,Non-compliance with GMP standards,Labeling,Charlie Brown,Grace Moore
+806,2023-10-19,C2,Floor 3,Improper waste disposal observed,Labeling,Alice Williams,Grace Moore
+807,2023-10-19,C2,Floor 1,Faulty air filtration system detected,GMP,Hank Taylor,Frank Wilson
+808,2023-10-20,C3,Floor 1,Faulty air filtration system detected,GMP,Alice Williams,Frank Wilson
+809,2023-10-20,C3,Floor 1,Unlabeled samples in storage area,Facility,John Smith,Grace Moore
+810,2023-10-20,C2,Floor 3,Unsterilized equipment in use,GMP,Eve Miller,Grace Moore
+811,2023-10-21,C2,Floor 3,Inadequate personal protective equipment,Facility,Charlie Brown,Frank Wilson
+812,2023-10-21,C3,Floor 2,Expired reagents found in laboratory,Labeling,Alice Williams,Grace Moore
+813,2023-10-22,C3,Floor 3,Unlabeled samples in storage area,Labeling,Jane Johnson,Grace Moore
+814,2023-10-23,C1,Floor 3,Poor documentation of procedures,Labeling,John Smith,Grace Moore
+815,2023-10-23,C3,Floor 3,Non-compliance with GMP standards,Facility,Jane Johnson,Frank Wilson
+816,2023-10-24,C3,Floor 2,Expired reagents found in laboratory,GMP,Hank Taylor,Frank Wilson
+817,2023-10-24,C1,Floor 1,Poor documentation of procedures,Facility,Jane Johnson,Grace Moore
+818,2023-10-24,C2,Floor 2,Poor documentation of procedures,Facility,Bob Jones,Grace Moore
+819,2023-10-24,C3,Floor 2,Temperature control issues in storage,Labeling,John Smith,Grace Moore
+820,2023-10-25,C3,Floor 3,Unlabeled samples in storage area,Facility,John Smith,Frank Wilson
+821,2023-10-25,C1,Floor 3,Non-compliance with GMP standards,Facility,John Smith,Grace Moore
+822,2023-10-26,C1,Floor 2,Non-compliance with GMP standards,Labeling,Eve Miller,Frank Wilson
+823,2023-10-26,C3,Floor 2,Unsterilized equipment in use,Labeling,Charlie Brown,Frank Wilson
+824,2023-10-26,C1,Floor 2,Expired reagents found in laboratory,Labeling,Bob Jones,Frank Wilson
+825,2023-10-26,C3,Floor 2,Inadequate personal protective equipment,GMP,Alice Williams,Grace Moore
+826,2023-10-27,C1,Floor 1,Expired reagents found in laboratory,GMP,Charlie Brown,Grace Moore
+827,2023-10-27,C3,Floor 2,Improper waste disposal observed,Facility,Alice Williams,Frank Wilson
+828,2023-10-28,C3,Floor 2,Inadequate personal protective equipment,Facility,Charlie Brown,Frank Wilson
+829,2023-10-28,C3,Floor 1,Poor documentation of procedures,Labeling,Bob Jones,Grace Moore
+830,2023-10-28,C1,Floor 2,Improper labeling of chemical containers,GMP,Jane Johnson,Frank Wilson
+831,2023-10-29,C1,Floor 1,Improper labeling of chemical containers,Facility,Diana Davis,Frank Wilson
+832,2023-10-29,C1,Floor 2,Non-compliance with GMP standards,Labeling,Diana Davis,Frank Wilson
+833,2023-10-30,C2,Floor 3,Improper waste disposal observed,Facility,Alice Williams,Grace Moore
+834,2023-10-30,C1,Floor 3,Expired reagents found in laboratory,GMP,Eve Miller,Frank Wilson
+835,2023-10-30,C2,Floor 3,Non-compliance with GMP standards,GMP,Jane Johnson,Grace Moore
+836,2023-10-30,C2,Floor 2,Faulty air filtration system detected,GMP,Alice Williams,Frank Wilson
+837,2023-10-31,C2,Floor 2,Expired reagents found in laboratory,GMP,Diana Davis,Grace Moore
+838,2023-10-31,C1,Floor 2,Poor documentation of procedures,GMP,Hank Taylor,Grace Moore
+839,2023-10-31,C2,Floor 2,Non-compliance with GMP standards,GMP,Hank Taylor,Frank Wilson
+840,2023-10-31,C1,Floor 2,Expired reagents found in laboratory,Facility,Charlie Brown,Frank Wilson
+841,2023-11-01,C1,Floor 2,Improper waste disposal observed,GMP,Diana Davis,Grace Moore
+842,2023-11-01,C1,Floor 3,Unsterilized equipment in use,Facility,John Smith,Frank Wilson
+843,2023-11-02,C3,Floor 3,Unsterilized equipment in use,GMP,Bob Jones,Frank Wilson
+844,2023-11-02,C1,Floor 1,Inadequate personal protective equipment,GMP,Eve Miller,Frank Wilson
+845,2023-11-03,C3,Floor 2,Poor documentation of procedures,Labeling,Jane Johnson,Grace Moore
+846,2023-11-03,C3,Floor 3,Unlabeled samples in storage area,GMP,John Smith,Frank Wilson
+847,2023-11-03,C1,Floor 2,Inadequate personal protective equipment,GMP,Alice Williams,Frank Wilson
+848,2023-11-04,C2,Floor 2,Temperature control issues in storage,GMP,Alice Williams,Grace Moore
+849,2023-11-04,C2,Floor 3,Expired reagents found in laboratory,GMP,Diana Davis,Frank Wilson
+850,2023-11-04,C3,Floor 1,Poor documentation of procedures,GMP,Diana Davis,Grace Moore
+851,2023-11-04,C1,Floor 3,Unsterilized equipment in use,Labeling,Alice Williams,Grace Moore
+852,2023-11-04,C3,Floor 3,Non-compliance with GMP standards,Facility,Charlie Brown,Grace Moore
+853,2023-11-04,C1,Floor 1,Inadequate personal protective equipment,Facility,Hank Taylor,Grace Moore
+854,2023-11-05,C3,Floor 2,Improper waste disposal observed,Labeling,John Smith,Grace Moore
+855,2023-11-06,C3,Floor 3,Unsterilized equipment in use,GMP,Eve Miller,Grace Moore
+856,2023-11-07,C3,Floor 3,Unsterilized equipment in use,Labeling,John Smith,Frank Wilson
+857,2023-11-07,C3,Floor 3,Unsterilized equipment in use,Facility,Jane Johnson,Grace Moore
+858,2023-11-08,C2,Floor 3,Expired reagents found in laboratory,Facility,Eve Miller,Grace Moore
+859,2023-11-08,C3,Floor 2,Improper waste disposal observed,Facility,Eve Miller,Frank Wilson
+860,2023-11-08,C3,Floor 3,Unsterilized equipment in use,GMP,Eve Miller,Frank Wilson
+861,2023-11-10,C3,Floor 1,Improper labeling of chemical containers,Facility,Hank Taylor,Grace Moore
+862,2023-11-10,C3,Floor 1,Poor documentation of procedures,GMP,Eve Miller,Frank Wilson
+863,2023-11-11,C3,Floor 2,Inadequate personal protective equipment,Facility,Alice Williams,Frank Wilson
+864,2023-11-11,C3,Floor 3,Poor documentation of procedures,Labeling,Alice Williams,Grace Moore
+865,2023-11-12,C1,Floor 2,Improper labeling of chemical containers,Facility,Eve Miller,Frank Wilson
+866,2023-11-12,C3,Floor 2,Inadequate personal protective equipment,Facility,Alice Williams,Grace Moore
+867,2023-11-13,C2,Floor 1,Expired reagents found in laboratory,Facility,Jane Johnson,Grace Moore
+868,2023-11-13,C3,Floor 2,Faulty air filtration system detected,GMP,Diana Davis,Grace Moore
+869,2023-11-13,C2,Floor 3,Improper waste disposal observed,Labeling,Jane Johnson,Grace Moore
+870,2023-11-13,C1,Floor 2,Poor documentation of procedures,GMP,Bob Jones,Grace Moore
+871,2023-11-13,C1,Floor 3,Non-compliance with GMP standards,GMP,Alice Williams,Frank Wilson
+872,2023-11-13,C2,Floor 2,Improper waste disposal observed,GMP,Bob Jones,Grace Moore
+873,2023-11-14,C1,Floor 1,Expired reagents found in laboratory,GMP,Alice Williams,Grace Moore
+874,2023-11-14,C2,Floor 2,Poor documentation of procedures,Facility,Eve Miller,Grace Moore
+875,2023-11-15,C1,Floor 3,Improper waste disposal observed,Facility,Charlie Brown,Frank Wilson
+876,2023-11-15,C2,Floor 2,Unsterilized equipment in use,Facility,Jane Johnson,Frank Wilson
+877,2023-11-15,C1,Floor 3,Expired reagents found in laboratory,Labeling,John Smith,Grace Moore
+878,2023-11-15,C2,Floor 1,Faulty air filtration system detected,Labeling,Charlie Brown,Grace Moore
+879,2023-11-16,C1,Floor 2,Inadequate personal protective equipment,Labeling,Alice Williams,Frank Wilson
+880,2023-11-16,C2,Floor 2,Improper waste disposal observed,Labeling,Charlie Brown,Grace Moore
+881,2023-11-16,C2,Floor 2,Inadequate personal protective equipment,Facility,Hank Taylor,Frank Wilson
+882,2023-11-16,C2,Floor 1,Temperature control issues in storage,Facility,Bob Jones,Frank Wilson
+883,2023-11-17,C2,Floor 1,Poor documentation of procedures,GMP,Jane Johnson,Frank Wilson
+884,2023-11-17,C2,Floor 3,Unlabeled samples in storage area,GMP,John Smith,Frank Wilson
+885,2023-11-18,C1,Floor 1,Faulty air filtration system detected,Facility,John Smith,Frank Wilson
+886,2023-11-19,C2,Floor 2,Expired reagents found in laboratory,Labeling,Charlie Brown,Grace Moore
+887,2023-11-19,C3,Floor 1,Non-compliance with GMP standards,Facility,Eve Miller,Grace Moore
+888,2023-11-20,C1,Floor 1,Improper labeling of chemical containers,Facility,Eve Miller,Frank Wilson
+889,2023-11-20,C2,Floor 3,Improper labeling of chemical containers,GMP,Hank Taylor,Grace Moore
+890,2023-11-20,C1,Floor 2,Temperature control issues in storage,Facility,Charlie Brown,Frank Wilson
+891,2023-11-22,C2,Floor 3,Unlabeled samples in storage area,GMP,Jane Johnson,Grace Moore
+892,2023-11-22,C2,Floor 2,Unsterilized equipment in use,Labeling,John Smith,Frank Wilson
+893,2023-11-22,C3,Floor 2,Unlabeled samples in storage area,Facility,Diana Davis,Grace Moore
+894,2023-11-23,C1,Floor 2,Faulty air filtration system detected,Facility,Charlie Brown,Frank Wilson
+895,2023-11-24,C2,Floor 1,Faulty air filtration system detected,Labeling,John Smith,Frank Wilson
+896,2023-11-24,C3,Floor 3,Poor documentation of procedures,Labeling,Jane Johnson,Grace Moore
+897,2023-11-25,C1,Floor 2,Temperature control issues in storage,Labeling,Bob Jones,Frank Wilson
+898,2023-11-25,C3,Floor 1,Improper labeling of chemical containers,Facility,Diana Davis,Frank Wilson
+899,2023-11-25,C2,Floor 3,Faulty air filtration system detected,Labeling,Diana Davis,Frank Wilson
+900,2023-11-27,C1,Floor 1,Temperature control issues in storage,Facility,John Smith,Grace Moore
+901,2023-11-27,C2,Floor 3,Temperature control issues in storage,Facility,Alice Williams,Frank Wilson
+902,2023-11-28,C2,Floor 1,Unsterilized equipment in use,GMP,Charlie Brown,Grace Moore
+903,2023-11-28,C3,Floor 2,Inadequate personal protective equipment,Facility,Eve Miller,Grace Moore
+904,2023-11-29,C2,Floor 1,Temperature control issues in storage,Facility,Jane Johnson,Grace Moore
+905,2023-11-29,C2,Floor 2,Unsterilized equipment in use,Facility,Hank Taylor,Frank Wilson
+906,2023-11-29,C2,Floor 3,Improper waste disposal observed,GMP,Alice Williams,Frank Wilson
+907,2023-11-29,C2,Floor 2,Unsterilized equipment in use,Labeling,Jane Johnson,Grace Moore
+908,2023-11-29,C2,Floor 3,Temperature control issues in storage,GMP,Hank Taylor,Grace Moore
+909,2023-11-29,C3,Floor 1,Expired reagents found in laboratory,Facility,John Smith,Frank Wilson
+910,2023-11-30,C2,Floor 1,Non-compliance with GMP standards,Labeling,Alice Williams,Grace Moore
+911,2023-11-30,C3,Floor 2,Inadequate personal protective equipment,Labeling,Jane Johnson,Grace Moore
+912,2023-12-01,C2,Floor 3,Improper waste disposal observed,Labeling,Alice Williams,Grace Moore
+913,2023-12-01,C2,Floor 1,Non-compliance with GMP standards,Labeling,Jane Johnson,Grace Moore
+914,2023-12-01,C2,Floor 3,Improper waste disposal observed,Facility,Bob Jones,Frank Wilson
+915,2023-12-01,C1,Floor 3,Faulty air filtration system detected,GMP,Alice Williams,Frank Wilson
+916,2023-12-02,C2,Floor 3,Poor documentation of procedures,Facility,Eve Miller,Grace Moore
+917,2023-12-02,C3,Floor 1,Unlabeled samples in storage area,Facility,John Smith,Grace Moore
+918,2023-12-03,C2,Floor 1,Temperature control issues in storage,Labeling,Bob Jones,Grace Moore
+919,2023-12-05,C1,Floor 2,Faulty air filtration system detected,Facility,Diana Davis,Frank Wilson
+920,2023-12-05,C3,Floor 2,Unsterilized equipment in use,Labeling,Diana Davis,Frank Wilson
+921,2023-12-05,C3,Floor 1,Expired reagents found in laboratory,GMP,John Smith,Grace Moore
+922,2023-12-06,C2,Floor 2,Inadequate personal protective equipment,GMP,Hank Taylor,Grace Moore
+923,2023-12-06,C1,Floor 3,Unsterilized equipment in use,Labeling,Eve Miller,Grace Moore
+924,2023-12-06,C1,Floor 2,Faulty air filtration system detected,Labeling,John Smith,Grace Moore
+925,2023-12-07,C3,Floor 3,Faulty air filtration system detected,GMP,John Smith,Frank Wilson
+926,2023-12-07,C3,Floor 1,Unsterilized equipment in use,Labeling,Alice Williams,Frank Wilson
+927,2023-12-07,C2,Floor 2,Faulty air filtration system detected,Labeling,Diana Davis,Frank Wilson
+928,2023-12-07,C1,Floor 1,Unsterilized equipment in use,Facility,Eve Miller,Frank Wilson
+929,2023-12-07,C1,Floor 1,Poor documentation of procedures,Labeling,John Smith,Grace Moore
+930,2023-12-08,C1,Floor 1,Unsterilized equipment in use,Labeling,Diana Davis,Grace Moore
+931,2023-12-08,C3,Floor 3,Expired reagents found in laboratory,Facility,Hank Taylor,Frank Wilson
+932,2023-12-08,C3,Floor 3,Improper waste disposal observed,GMP,Bob Jones,Grace Moore
+933,2023-12-08,C3,Floor 3,Expired reagents found in laboratory,Labeling,Eve Miller,Grace Moore
+934,2023-12-09,C2,Floor 3,Improper labeling of chemical containers,GMP,Jane Johnson,Frank Wilson
+935,2023-12-09,C2,Floor 3,Non-compliance with GMP standards,Facility,Hank Taylor,Frank Wilson
+936,2023-12-09,C3,Floor 3,Improper waste disposal observed,GMP,John Smith,Grace Moore
+937,2023-12-10,C3,Floor 3,Expired reagents found in laboratory,GMP,Charlie Brown,Frank Wilson
+938,2023-12-10,C3,Floor 2,Faulty air filtration system detected,GMP,Bob Jones,Grace Moore
+939,2023-12-10,C2,Floor 3,Poor documentation of procedures,Facility,Alice Williams,Grace Moore
+940,2023-12-11,C3,Floor 1,Poor documentation of procedures,Labeling,Jane Johnson,Frank Wilson
+941,2023-12-12,C3,Floor 1,Unlabeled samples in storage area,GMP,Diana Davis,Frank Wilson
+942,2023-12-12,C1,Floor 2,Poor documentation of procedures,GMP,Alice Williams,Frank Wilson
+943,2023-12-12,C1,Floor 2,Inadequate personal protective equipment,Labeling,Alice Williams,Grace Moore
+944,2023-12-12,C2,Floor 1,Inadequate personal protective equipment,GMP,Diana Davis,Frank Wilson
+945,2023-12-13,C2,Floor 2,Temperature control issues in storage,Labeling,Alice Williams,Grace Moore
+946,2023-12-13,C1,Floor 1,Poor documentation of procedures,Labeling,John Smith,Frank Wilson
+947,2023-12-13,C2,Floor 1,Poor documentation of procedures,Facility,Eve Miller,Grace Moore
+948,2023-12-13,C3,Floor 1,Faulty air filtration system detected,Labeling,Charlie Brown,Grace Moore
+949,2023-12-14,C2,Floor 1,Temperature control issues in storage,GMP,Bob Jones,Grace Moore
+950,2023-12-14,C3,Floor 2,Unsterilized equipment in use,GMP,Charlie Brown,Frank Wilson
+951,2023-12-14,C3,Floor 3,Improper waste disposal observed,Facility,Alice Williams,Frank Wilson
+952,2023-12-15,C3,Floor 3,Improper waste disposal observed,GMP,Bob Jones,Frank Wilson
+953,2023-12-15,C3,Floor 3,Faulty air filtration system detected,Facility,Jane Johnson,Frank Wilson
+954,2023-12-15,C2,Floor 3,Inadequate personal protective equipment,GMP,Diana Davis,Frank Wilson
+955,2023-12-15,C2,Floor 3,Unsterilized equipment in use,GMP,Bob Jones,Frank Wilson
+956,2023-12-16,C2,Floor 3,Poor documentation of procedures,Labeling,Charlie Brown,Frank Wilson
+957,2023-12-16,C1,Floor 2,Unsterilized equipment in use,GMP,Eve Miller,Grace Moore
+958,2023-12-17,C3,Floor 2,Poor documentation of procedures,Labeling,Charlie Brown,Frank Wilson
+959,2023-12-17,C1,Floor 3,Improper waste disposal observed,Labeling,Eve Miller,Grace Moore
+960,2023-12-17,C1,Floor 2,Unlabeled samples in storage area,GMP,John Smith,Frank Wilson
+961,2023-12-18,C1,Floor 2,Poor documentation of procedures,GMP,Bob Jones,Frank Wilson
+962,2023-12-18,C3,Floor 3,Non-compliance with GMP standards,GMP,Bob Jones,Grace Moore
+963,2023-12-18,C2,Floor 2,Unsterilized equipment in use,Labeling,Alice Williams,Frank Wilson
+964,2023-12-18,C1,Floor 2,Poor documentation of procedures,Labeling,Diana Davis,Grace Moore
+965,2023-12-18,C1,Floor 3,Improper waste disposal observed,Labeling,Jane Johnson,Frank Wilson
+966,2023-12-19,C2,Floor 3,Inadequate personal protective equipment,GMP,Hank Taylor,Grace Moore
+967,2023-12-19,C1,Floor 3,Inadequate personal protective equipment,Labeling,John Smith,Frank Wilson
+968,2023-12-20,C1,Floor 3,Unlabeled samples in storage area,Labeling,Charlie Brown,Frank Wilson
+969,2023-12-20,C3,Floor 2,Improper waste disposal observed,Facility,Alice Williams,Grace Moore
+970,2023-12-20,C1,Floor 3,Faulty air filtration system detected,Facility,Diana Davis,Grace Moore
+971,2023-12-21,C3,Floor 3,Expired reagents found in laboratory,Facility,Bob Jones,Frank Wilson
+972,2023-12-21,C2,Floor 2,Improper labeling of chemical containers,Facility,Charlie Brown,Frank Wilson
+973,2023-12-21,C3,Floor 2,Inadequate personal protective equipment,Labeling,Hank Taylor,Frank Wilson
+974,2023-12-21,C1,Floor 3,Unsterilized equipment in use,Facility,Bob Jones,Grace Moore
+975,2023-12-22,C1,Floor 1,Improper waste disposal observed,Facility,Hank Taylor,Frank Wilson
+976,2023-12-22,C3,Floor 3,Unsterilized equipment in use,GMP,John Smith,Grace Moore
+977,2023-12-23,C1,Floor 1,Unlabeled samples in storage area,Facility,Diana Davis,Grace Moore
+978,2023-12-23,C2,Floor 3,Expired reagents found in laboratory,Labeling,Alice Williams,Frank Wilson
+979,2023-12-24,C3,Floor 1,Improper waste disposal observed,Facility,Charlie Brown,Grace Moore
+980,2023-12-24,C2,Floor 3,Inadequate personal protective equipment,Labeling,Jane Johnson,Grace Moore
+981,2023-12-24,C1,Floor 3,Non-compliance with GMP standards,GMP,Diana Davis,Grace Moore
+982,2023-12-25,C1,Floor 3,Faulty air filtration system detected,Labeling,Jane Johnson,Frank Wilson
+983,2023-12-25,C3,Floor 2,Inadequate personal protective equipment,Labeling,Jane Johnson,Frank Wilson
+984,2023-12-26,C1,Floor 2,Improper waste disposal observed,GMP,Diana Davis,Frank Wilson
+985,2023-12-26,C1,Floor 2,Non-compliance with GMP standards,GMP,Alice Williams,Grace Moore
+986,2023-12-27,C2,Floor 2,Temperature control issues in storage,GMP,Bob Jones,Frank Wilson
+987,2023-12-27,C3,Floor 1,Expired reagents found in laboratory,Labeling,Alice Williams,Frank Wilson
+988,2023-12-27,C1,Floor 2,Non-compliance with GMP standards,Labeling,Jane Johnson,Grace Moore
+989,2023-12-28,C3,Floor 3,Improper labeling of chemical containers,GMP,Jane Johnson,Grace Moore
+990,2023-12-28,C2,Floor 2,Poor documentation of procedures,Facility,Hank Taylor,Grace Moore
+991,2023-12-28,C2,Floor 3,Expired reagents found in laboratory,GMP,Bob Jones,Grace Moore
+992,2023-12-28,C3,Floor 2,Faulty air filtration system detected,GMP,Alice Williams,Grace Moore
+993,2023-12-29,C1,Floor 3,Improper waste disposal observed,GMP,Hank Taylor,Frank Wilson
+994,2023-12-29,C3,Floor 1,Poor documentation of procedures,Labeling,Bob Jones,Grace Moore
+995,2023-12-29,C2,Floor 1,Improper waste disposal observed,Labeling,Jane Johnson,Grace Moore
+996,2023-12-30,C1,Floor 3,Non-compliance with GMP standards,Labeling,Alice Williams,Frank Wilson
+997,2023-12-30,C1,Floor 1,Improper waste disposal observed,GMP,Charlie Brown,Grace Moore
+998,2023-12-30,C1,Floor 3,Non-compliance with GMP standards,GMP,John Smith,Frank Wilson
+999,2023-12-31,C3,Floor 3,Unsterilized equipment in use,GMP,Jane Johnson,Frank Wilson
+1000,2023-12-31,C3,Floor 1,Inadequate personal protective equipment,Labeling,John Smith,Frank Wilson
